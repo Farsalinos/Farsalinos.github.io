@@ -1,4 +1,4 @@
-baseURL = 'https://github.io'
+baseURL = 'https://farsalinos.github.io/'
 languageCode = 'en'
 title = 'Unsmoked | Science & Tobacco Harm Reduction'
 theme = 'hugo-stack'
