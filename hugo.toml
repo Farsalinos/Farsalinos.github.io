@@ -1,0 +1,89 @@
+baseURL = 'https://github.io'
+languageCode = 'en'
+title = 'Unsmoked | Science & Tobacco Harm Reduction'
+theme = 'hugo-stack'
+
+# MASTER SAFETY SWITCH (Keeps drafts hidden until you change them to false)
+buildDrafts = false
+
+[params]
+  description = 'Bilingual scientific research, policy analysis, and guidance on tobacco harm reduction.'
+  author = 'Dr. Konstantinos Farsalinos & Team'
+  favicon = '/favicon.ico'
+  logo = '/logo.png'
+
+  # Sidebar Profile Card Settings
+  [params.sidebar]
+    enable = true
+    avatar = '/avatar.png'
+    title = 'Dr. Konstantinos Farsalinos'
+    subtitle = 'Physician & Public Health Researcher'
+    # TODO: Replace the placeholder link below with your actual PayPal link later
+    paypal = 'https://paypal.me'
+    # NOTE FOR FUTURE: A placeholder for your Buy Me A Coffee link can be added here cleanly later
+
+  # Enable client-side search (Pagefind integration ready)
+  [params.search]
+    provider = 'pagefind'
+
+[languages]
+  [languages.en]
+    languageName = 'English'
+    weight = 1
+    languageCode = 'en'
+    title = 'Unsmoked | Science & THR'
+    [languages.en.params]
+      subtitle = 'Evidence-based Tobacco Harm Reduction'
+    [[languages.en.menu.main]]
+      identifier = 'science'
+      name = 'Science Deep Dives'
+      url = '/en/categories/science-deep-dives/'
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = 'guides'
+      name = 'Smoker Guides'
+      url = '/en/categories/smoker-guides/'
+      weight = 2
+    [[languages.en.menu.main]]
+      identifier = 'videos'
+      name = 'Video Companions'
+      url = '/en/categories/video-companions/'
+      weight = 3
+    [[languages.en.menu.main]]
+      identifier = 'products'
+      name = 'THR Products Explained'
+      url = '/en/categories/thr-products-explained/'
+      weight = 4
+
+  [languages.gr]
+    languageName = 'Ελληνικά'
+    weight = 2
+    languageCode = 'el'
+    title = 'Unsmoked | Επιστήμη & Μείωση Βλάβης'
+    [languages.gr.params]
+      subtitle = 'Επιστημονική Τεκμηρίωση & Μείωση Καπνικού Κινδύνου'
+    [[languages.gr.menu.main]]
+      identifier = 'science'
+      name = 'Επιστημονικές Αναλύσεις'
+      url = '/gr/categories/science-deep-dives/'
+      weight = 1
+    [[languages.gr.menu.main]]
+      identifier = 'guides'
+      name = 'Οδηγοί για Καπνιστές'
+      url = '/gr/categories/smoker-guides/'
+      weight = 2
+    [[languages.gr.menu.main]]
+      identifier = 'videos'
+      name = 'Βίντεο & Απομαγνητοφωνήσεις'
+      url = '/gr/categories/video-companions/'
+      weight = 3
+    [[languages.gr.menu.main]]
+      identifier = 'products'
+      name = 'Προϊόντα Μείωσης Βλάβης'
+      url = '/gr/categories/thr-products-explained/'
+      weight = 4
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  series = 'series'
