@@ -1,7 +1,7 @@
 baseURL = 'https://github.io'
 languageCode = 'en'
 title = 'Unsmoked | Science & Tobacco Harm Reduction'
-theme = 'hugo-stack'
+theme = ['hugo-stack']
 
 # MASTER SAFETY SWITCH (Keeps drafts hidden until you change them to false)
 buildDrafts = false
