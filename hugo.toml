@@ -1,14 +1,14 @@
 baseURL = 'https://farsalinos.github.io/'
 languageCode = 'en'
-title = 'Unsmoked | Science & Tobacco Harm Reduction'
+title = 'Dr Farsalinos - Unsmoked | Science & Tobacco Harm Reduction'
 
 
 # MASTER SAFETY SWITCH (Keeps drafts hidden until you change them to false)
 buildDrafts = false
 
 [params]
-  description = 'Bilingual scientific research, policy analysis, and guidance on tobacco harm reduction.'
-  author = 'Dr. Konstantinos Farsalinos & Team'
+  description = 'Scientific research, policy analysis, and guidance on tobacco harm reduction.'
+  author = 'Dr. Konstantinos Farsalinos'
   favicon = '/favicon.ico'
   logo = '/logo.png'
 
@@ -41,7 +41,7 @@ buildDrafts = false
       weight = 1
     [[languages.en.menu.main]]
       identifier = 'guides'
-      name = 'Smoker Guides'
+      name = 'Smoker & User Guides'
       url = '/en/categories/smoker-guides/'
       weight = 2
     [[languages.en.menu.main]]
@@ -61,7 +61,7 @@ buildDrafts = false
     languageCode = 'el'
     title = 'Unsmoked | Επιστήμη & Μείωση Βλάβης'
     [languages.gr.params]
-      subtitle = 'Επιστημονική Τεκμηρίωση & Μείωση Καπνικού Κινδύνου'
+      subtitle = 'Επιστημονική Τεκμηρίωση & Μείωση Κινδύνου από το Κάπνισμα'
     [[languages.gr.menu.main]]
       identifier = 'science'
       name = 'Επιστημονικές Αναλύσεις'
@@ -69,7 +69,7 @@ buildDrafts = false
       weight = 1
     [[languages.gr.menu.main]]
       identifier = 'guides'
-      name = 'Οδηγοί για Καπνιστές'
+      name = 'Οδηγοί για Καπνιστές & Καταναλωτές'
       url = '/gr/categories/smoker-guides/'
       weight = 2
     [[languages.gr.menu.main]]
@@ -79,7 +79,7 @@ buildDrafts = false
       weight = 3
     [[languages.gr.menu.main]]
       identifier = 'products'
-      name = 'Προϊόντα Μείωσης Βλάβης'
+      name = 'Τί επιλογές υπάρχουν;'
       url = '/gr/categories/thr-products-explained/'
       weight = 4
 
