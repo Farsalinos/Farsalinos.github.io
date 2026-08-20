@@ -28,28 +28,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          submodules: true
           fetch-depth: 0
-          
       - name: Setup Pages
         uses: actions/configure-pages@v5
-        
-      - name: Force Download Theme Folders
-        run: |
-          mkdir -p themes
-          git clone --depth 1 https://github.com themes/hugo-stack
-          
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com{{ env.HUGO_VERSION }}/hugo_extended_${{ env.HUGO_VERSION }}_linux-amd64.deb
           sudo dpkg -i ${{ runner.temp }}/hugo.deb
-          
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
         run: |
           hugo --gc --minify
-          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
