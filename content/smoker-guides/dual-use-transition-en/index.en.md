@@ -8,7 +8,7 @@ translationKey: dual-use-transition
 
 **It's Often the Road Out of Smoking.** If you smoke some days and vape on others - or vape while still having the occasional cigarette - you have probably been told this proves vaping doesn't work. Even worse, many claim that this is even worse than just smoking. Public health critics present dual use as evidence of failure or as added risk. The science tells a different story: for many people, dual use is a transitional stage on the way to complete switching.
 
-[[MISSING IMAGE: slider2.en.JPG]]
+{{< figure src="slide2.en.jpg" class="w-[400px]" >}}
 
 ## What the Data Show
 
@@ -18,13 +18,13 @@ And this makes perfect sense. If you smoked 20 cigarettes per day before vaping 
 
 However, even smoking few cigarettes per day results in much higher toxicant exposure compared to completely quitting (even if you quit by vaping daily); thus, **complete cigarette cessation should be the main goal for every smoker.**
 
-[[MISSING IMAGE: slider3.en.JPG]]
+{{< figure src="slide3.en.jpg" class="w-[400px]" >}}
 
 ## Vaping After Quitting Protects Against Relapse
 
 Perhaps the most practically important finding comes from [Hajek and colleagues (2026)](https://pubmed.ncbi.nlm.nih.gov/41560608/), analyzing data from a large UK stop-smoking trial: continuing to vape after quitting smoking was associated with significantly lower risk of relapse over twelve months. This challenges the assumption that people should stop vaping as soon as they stop smoking. Sustained use of a far less harmful product is better understood as relapse prevention than as a new problem.
 
-[[MISSING IMAGE: slider4.en.JPG]]
+{{< figure src="slide4.en.jpg" class="w-[400px]" >}}
 
 ## What This Means for You
 
@@ -32,4 +32,4 @@ If you are currently using both products, the goal is clear: keep pushing in one
 
 Sources: Jackson et al., Addiction 2025 \| Xue et al., Nicotine Tob Res 2025 \| Hajek et al., Addiction 2026
 
-[[MISSING IMAGE: slider5.en.JPG]]
+{{< figure src="slide5.en.jpg" class="w-[400px]" >}}
