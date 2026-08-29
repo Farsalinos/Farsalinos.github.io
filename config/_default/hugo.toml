@@ -5,4 +5,4 @@ defaultContentLanguageInSubdir = true
 theme = "blowfish"
 buildDrafts = false
 enableEmoji = true
-paginate = 10
+pagination.pagerSize = 10
