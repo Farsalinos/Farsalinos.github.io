@@ -1,0 +1,34 @@
+/* Widen article content column */
+.article-content.max-w-prose,
+#single_header.max-w-prose,
+article footer.max-w-prose {
+  max-width: 80ch;
+}
+
+/* Center + justify article text */
+.article-content {
+  text-align: justify;
+}
+
+/* Justify homepage welcome text (profile layout) */
+@media (min-width: 768px) {
+  main .prose {
+    text-align: justify;
+  }
+}
+
+/* Header: slightly smaller menu font + wider header area */
+.main-menu {
+  font-size: 0.875rem;
+}
+@media (min-width: 1280px) {
+  .main-menu {
+    font-size: 0.9375rem;
+  }
+}
+header .relative.max-w-7xl,
+header div.relative.m-auto {
+  max-width: 90rem !important;
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+}

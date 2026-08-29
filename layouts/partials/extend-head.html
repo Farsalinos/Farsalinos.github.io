@@ -1,0 +1,9 @@
+<!-- Automatically insert a line break before the '|' character in the main title -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const titleEl = document.querySelector('h1');
+    if (titleEl && titleEl.innerHTML.includes('|')) {
+        titleEl.innerHTML = titleEl.innerHTML.replace('|', '<br>|');
+    }
+});
+</script>

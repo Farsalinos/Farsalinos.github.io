@@ -1,0 +1,4 @@
+---
+description: I provide in depth, evidence-based, easy to understand knowledge on how to quit smoking and on the latest developments concerning all cessation tools. 
+---
+Καλώς ορίσατε στην ενότητα **Συνοδευτικά Βίντεο**. Εδώ παρουσιάζω οπτικοποιημένα και με αφήγηση βασικά στοιχεία, δεδομένα και νέα σχετικά με το κάπνισμα, τις προσπάθειες και τα εργαλεία διακόπης. Προς το παρόν, μπορείτε να παρακολουθήσετε τα βίντεο στο ελληνικό κανάλι του [**YouTube**](https://www.youtube.com/@unsmoked/), [**TikTok**](https://www.tiktok.com/@unsmoked_dr_farsalinos/) και [**Instagram**](https://www.instagram.com/unsmoked_dr_farsalinos/).

@@ -1,0 +1,8 @@
+baseURL = "https://farsalinos.github.io/"
+locale = "en"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+theme = "blowfish"
+buildDrafts = false
+enableEmoji = true
+paginate = 10

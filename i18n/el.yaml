@@ -1,0 +1,8 @@
+global:
+  language: "Γλώσσα"
+  
+shortcode:
+  recent_articles: "Πρόσφατα"
+
+recent:
+  show_more: "Περισσότερα"

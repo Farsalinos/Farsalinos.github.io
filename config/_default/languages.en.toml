@@ -1,0 +1,22 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Farsalinos"
+
+[params]
+  displayName = "ENGLISH"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/avatar.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+
+[params.author]
+  name = "K. Farsalinos, MD, MPH, PhD | Science & Public Health"
+  image = "img/avatar.png"
+  headline = "Scientific research, policy analysis, and guidance on smoking & THR - FOR EVERYONE"
+  bio = ""

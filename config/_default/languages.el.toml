@@ -1,0 +1,27 @@
+disabled = false
+locale = "el"
+label = "ΕΛΛΗΝΙΚΑ"
+weight = 2
+title = "Φαρσαλινός"
+
+[params]
+  displayName = "ΕΛΛΗΝΙΚΑ"
+  isoCode = "el"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/avatar.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+  # title = "Φαρσαλινός - Unsmoked | Επιστήμη & Μείωση Βλάβης, Απλά & Κατανοητά"
+  # description = "Επιστημονική τεκμηρίωση, ανάλυση πολιτικής και οδηγίες για τη μείωση της # # βλάβης από το κάπνισμα."
+  # languageName = "Ελληνικά"
+  # weight = 2
+  # isoCode = "el"
+  # dir = "ltr"
+
+[params.author]
+  name = "Κ. Φαρσαλινός, MD, MPH, PhD | Επιστήμη & Δημόσια Υγεία"
+  image = "img/avatar.png"
+  headline = "Έρευνα, ανάλυση & καθοδήγηση για το κάπνισμα και τη μείωση βλάβης <br> ΑΠΛΑ & ΚΑΤΑΝΟΗΤΑ"
+  bio = "Επιστημονική Τεκμηρίωση στη Μείωση Κινδύνου από το Κάπνισμα"

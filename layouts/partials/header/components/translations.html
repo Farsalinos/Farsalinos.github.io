@@ -1,0 +1,19 @@
+{{ if .IsTranslated }}
+  {{ $currentLang := .Language.Lang }}
+  {{ $flagMap := dict "en" "gb" "el" "gr" }}
+  <div class="flex items-center gap-2">
+    {{ range .AllTranslations }}
+      {{ $code := index $flagMap .Language.Lang | default .Language.Lang }}
+      
+        <a
+		href="{{ .RelPermalink }}"
+        title="{{ .Language.Label }}"
+        class="flex items-center transition-opacity {{ if eq .Language.Lang $currentLang }}opacity-100{{ else }}opacity-50 hover:opacity-100{{ end }}">
+        <img
+          src="{{ "images/flags/" | relURL }}{{ $code }}.svg"
+          alt="{{ .Language.Label }}"
+          class="w-6 h-4 object-cover rounded-sm">
+      </a>
+    {{ end }}
+  </div>
+{{ end }}
