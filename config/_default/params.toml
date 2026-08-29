@@ -44,7 +44,7 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [languageRedirect]
-  enabled = false # Enable client-side language redirects for multilingual sites.
+  enabled = true # Enable client-side language redirects for multilingual sites.
   storageKey = "blowfish_preferred_language" # localStorage key for manual language selections.
   # fallbackLanguage = "" # Language to use when no browser language matches. Defaults to Hugo's default content language.
   browserRedirectHomeOnly = true # Restrict browser-language redirects to home pages.
