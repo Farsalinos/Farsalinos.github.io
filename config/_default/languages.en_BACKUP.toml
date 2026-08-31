@@ -1,0 +1,13 @@
+[params]
+  title = "Farsalinos - Unsmoked | Science & THR"
+  description = "Scientific research, policy analysis, and guidance on tobacco harm reduction."
+  languageName = "English"
+  weight = 1
+  isoCode = "en"
+  dir = "ltr"
+
+[params.author]
+  name = "Konstantinos Farsalinos, MD, MPH, PhD"
+  image = "avatar.png"
+  headline = "Physician & Public Health Expert"
+  bio = "Scientific research, policy analysis, and guidance on smoking & tobacco harm reduction."

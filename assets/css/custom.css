@@ -32,3 +32,7 @@ header div.relative.m-auto {
   padding-left: 2rem !important;
   padding-right: 2rem !important;
 }
+/* Light mode only: brighten the page background (dark mode untouched) */
+# html:not(.dark) #background-canvas > div {
+#  background: rgba(255, 253, 245, 0.86);
+}
