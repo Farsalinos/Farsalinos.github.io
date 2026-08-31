@@ -15,8 +15,14 @@
     [goldmark.extensions.passthrough]
       enable = true
       [goldmark.extensions.passthrough.delimiters]
-        block = [['\[', '\]'], ['$$', '$$']]
-        inline = [['\(', '\)']]
+        block = [['\\[', '\\]'], ['$$', '$$']]
+        inline = [['\\(', '\\)']]
+
+    # Enable additional extensions
+    definitionList = true
+    footnote = true
+    taskList = true
+    typographer = true
 
 [highlight]
   noClasses = false
