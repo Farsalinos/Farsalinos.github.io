@@ -171,11 +171,11 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # domain = "llama.yoursite.com"
 
 [umamiAnalytics]
-  # websiteid = "ABC12345"
-  # domain = "llama.yoursite.com"
-  # dataDomains = "yoursite.com,yoursite2.com"
-  # scriptName = ""
-  # enableTrackEvent = true
+  websiteid = "50f3ed25-842d-4ba7-9e08-a620334eb4c6"
+  # domain = "analytics.umami.is"  # Optional: use cloud (default) or your self-hosted domain
+  # dataDomains = "farsalinos.github.io"  # Optional: restrict tracking to your domain
+  # scriptName = "script.js"  # Optional: custom script name if self-hosted
+  enableTrackEvent = true
 
 [selineAnalytics]
   # token = "XXXXXX"
