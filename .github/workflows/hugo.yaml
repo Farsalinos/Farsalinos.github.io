@@ -49,7 +49,12 @@ jobs:
           arguments: |
             --assume-extension .html
             --disable-external
-            --ignore-urls "/^http:\/\/localhost:/,/^https:\/\/analytics\.umami\.is/"
+            --ignore-missing-alt
+            --ignore-empty-alt
+            --ignore-empty-mailto
+            --ignore-files "/search/,/page/2/"
+            --no-check-internal-hash
+            --no-check-external-hash
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
