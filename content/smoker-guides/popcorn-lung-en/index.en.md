@@ -4,27 +4,26 @@ title: Vaping and Popcorn Lung
 translationKey: popcorn-lung
 ---
 
-**"Popcorn lung" – bronchiolitis obliterans** – is a rare, serious, and irreversible lung disease that destroyed the airways of popcorn factory workers. That is where the disease got its name, and not because the lungs look like popcorn on an X-ray (as has been heard from time to time). The disease was attributed to a natural flavoring agent used in factories at the time: **diacetyl**.
+**\"Popcorn lung\"—bronchiolitis obliterans—is a rare, serious, irreversible lung disease that destroyed the airways of popcorn-factory workers.** That's how the disease got its name; it's not because lungs look like popcorn on an X-ray (a claim that circulates occasionally). The cause was traced to a natural flavoring agent used in factories at the time: **diacetyl**.
 
-The story of popcorn lung became a favorite horror tale on social media and beyond. But between the fairy tale and reality, there is a gap that very few have tried to bridge.
-
+The popcorn-lung story became a favorite horror tale on social media and beyond. Between the fairy tale and reality lies a gap few have tried to bridge.
 
 ## The Diacetyl Comparison Everyone Ignores
 
-My study was, after all, the first to highlight the issue and find diacetyl in e-cigarette liquids. Comparing vaping to smoking back then, **in 2014**, I found that a smoker inhales, on average, about **100 times more** diacetyl daily than a user of an e-cigarette with liquid containing diacetyl in the amounts I had found at the time. However, despite decades of studies on millions of smokers, popcorn lung has never been identified as a smoking-related disease. If the daily inhalation of much higher doses of diacetyl by tens of millions of smokers never produced the disease, the claim that the much lower levels I found back then in vapor would do so defies common sense.
+My study was the first to flag the issue and detect diacetyl in e-cigarette liquids. Comparing vaping to smoking **in 2014**, I found that a smoker inhales, on average, about **100 times more** diacetyl daily than a vaper using liquid with the diacetyl levels I measured. Yet despite decades of research on millions of smokers, popcorn lung has never been identified as a smoking-related disease. If daily inhalation of far higher diacetyl doses by tens of millions of smokers never produced the disease, claiming the much lower levels I found in vapor would do so defies common sense.
 
 {{< figure src="slide3.en.jpg" class="w-[400px]" >}}
 
-## The Market’s Response That Regulation Never Provided
+## The Market's Response That Regulation Never Provided
 
-Diacetyl was never banned through regulatory measures at the European Union level. Furthermore, a complete ban would likely be impossible to implement. First of all, diacetyl is a natural substance found in many foods (dairy, alcoholic beverages, butter, cocoa, coffee, etc.). Traces of it—negligible amounts—may exist as residues in preparations that do not use diacetyl as an ingredient.
+Diacetyl was never banned through EU regulatory measures. A complete ban would likely be unworkable. First, diacetyl is a natural substance present in many foods (dairy, alcoholic beverages, butter, cocoa, coffee, etc.). Trace residues—negligible amounts—may exist in preparations that don't use diacetyl as an ingredient.
 
-However, after our study which identified diacetyl in e-cigarette liquids for the first time, major manufacturers stated that they removed it from their products on their own initiative. Meanwhile, no such move was applied to cigarettes—which continue to deliver much more diacetyl to smokers than any e-liquid. But even this cannot change, as diacetyl appears to be not only a natural component of the tobacco plant but is also produced by combustion.
+However, after our study identified diacetyl in e-cigarette liquids for the first time, major manufacturers removed it from their products voluntarily. No such move happened with cigarettes—which still deliver far more diacetyl to smokers than any e-liquid. Even that can't change, since diacetyl appears to be both a natural tobacco-plant component and a combustion byproduct.
 
 {{< figure src="slide5.en.jpg" class="w-[400px]" >}}
 
 ## Anatomy of a Scary Story
 
-The narrative of popcorn lung illustrates a pattern we likely observe repeatedly: a real danger identified in an extreme context (industrial occupational exposure) is transferred without quantified comparison to another context (vaping), amplified by terrifying comments, videos, and posts, and ends up as a story that lacks common sense. The result is a myth that refuses to die precisely because it sounds terrifying. Next time, ask the simple questions: how much? In comparison to what? Has the disease actually appeared? In all three, the story of popcorn lung collapses.
+The popcorn-lung narrative illustrates a pattern we see repeatedly: a real danger identified in an extreme context (industrial occupational exposure) gets transferred without quantified comparison to another context (vaping), amplified by terrifying comments, videos, and posts, and becomes a story that lacks common sense. The result is a myth that refuses to die precisely because it sounds terrifying. Next time, ask three simple questions: how much? Compared to what? Has the disease actually appeared? In all three, the popcorn-lung story collapses.
 
 {{< figure src="slide6.en.jpg" class="w-[400px]" >}}
