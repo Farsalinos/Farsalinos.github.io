@@ -4,9 +4,7 @@ title: The Global Paradox
 translationKey: thr-paradox
 ---
 
-**\
-\
-Why Cigarettes Are Everywhere But Non-Combustible Nicotine Alternatives Are Banned?**
+**Why Cigarettes Are Everywhere But Non-Combustible Nicotine Alternatives Are Banned?**
 
 Here’s something that should make you stop and think: In 2026, you can walk into almost any store worldwide and buy a pack of cigarettes - a product that kills up to half of its long-term users. But try to buy a vape or nicotine pouch to help quit smoking, and you might be breaking the law.
 

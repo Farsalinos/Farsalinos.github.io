@@ -1,0 +1,386 @@
+/* Print Stylesheet for Farsalinos - Unsmoked */
+/* Optimizes articles for printing to PDF/paper */
+
+@media print {
+  /* Hide non-content elements */
+  header,
+  footer,
+  nav,
+  .donate-banner-wrap,
+  #background-canvas,
+  .scroll-to-top,
+  .article-meta .share,
+  .article-meta .edit,
+  .series,
+  .pagination,
+  .table-of-contents,
+  .reading-progress,
+  .related-content,
+  .taxonomy-terms,
+  .author-card,
+  .hero-image,
+  .card-image,
+  .zoomable-image,
+  script,
+  style:not([media="print"]),
+  .skip-link,
+  .mobile-menu,
+  .search-modal,
+  .language-switcher,
+  .appearance-switcher,
+  .cookie-banner,
+  .newsletter-form,
+  .comments,
+  .cta-button,
+  .sponsor,
+  .advertisement,
+  .buy-me-a-coffee {
+    display: none !important;
+  }
+
+  /* Page setup */
+  @page {
+    margin: 2.5cm 2cm;
+    size: auto;
+  }
+
+  @page :first {
+    margin-top: 3cm;
+  }
+
+  /* Body & typography */
+  body {
+    background: white !important;
+    color: black !important;
+    font-size: 12pt !important;
+    line-height: 1.6 !important;
+    max-width: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  main {
+    max-width: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  article {
+    max-width: none !important;
+    padding: 0 !important;
+  }
+
+  /* Typography */
+  h1, h2, h3, h4, h5, h6 {
+    color: black !important;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+  }
+
+  h1 {
+    font-size: 24pt !important;
+    margin-bottom: 0.5em !important;
+    border-bottom: 2px solid #333 !important;
+    padding-bottom: 0.3em !important;
+  }
+
+  h2 {
+    font-size: 18pt !important;
+    margin-top: 1.5em !important;
+    margin-bottom: 0.5em !important;
+  }
+
+  h3 {
+    font-size: 14pt !important;
+    margin-top: 1.2em !important;
+  }
+
+  p {
+    margin-bottom: 1em !important;
+    orphans: 3;
+    widows: 3;
+  }
+
+  a {
+    color: black !important;
+    text-decoration: none !important;
+  }
+
+  a[href^="http"]::after {
+    content: " (" attr(href) ")" !important;
+    font-size: 9pt !important;
+    color: #666 !important;
+    font-weight: normal !important;
+  }
+
+  a[href^="/"]::after {
+    content: " (https://farsalinos.github.io" attr(href) ")" !important;
+    font-size: 9pt !important;
+    color: #666 !important;
+    font-weight: normal !important;
+  }
+
+  /* Don't show URLs for internal anchor links */
+  a[href^="#"]::after {
+    content: "" !important;
+  }
+
+  /* Code blocks */
+  pre {
+    page-break-inside: avoid;
+    background: #f5f5f5 !important;
+    border: 1px solid #ddd !important;
+    padding: 1em !important;
+    font-size: 9pt !important;
+    overflow: visible !important;
+    white-space: pre-wrap !important;
+    word-wrap: break-word !important;
+  }
+
+  code {
+    background: #f0f0f0 !important;
+    padding: 0.1em 0.3em !important;
+    font-size: 10pt !important;
+  }
+
+  pre code {
+    background: transparent !important;
+    padding: 0 !important;
+  }
+
+  /* Tables */
+  table {
+    page-break-inside: auto;
+    width: 100% !important;
+    border-collapse: collapse !important;
+    margin-bottom: 1.5em !important;
+    font-size: 10pt !important;
+  }
+
+  tr {
+    page-break-inside: avoid;
+    page-break-after: auto;
+  }
+
+  th, td {
+    border: 1px solid #999 !important;
+    padding: 0.5em !important;
+    vertical-align: top;
+  }
+
+  th {
+    background: #f0f0f0 !important;
+    font-weight: bold !important;
+  }
+
+  thead {
+    display: table-header-group;
+  }
+
+  /* Images & figures */
+  figure {
+    page-break-inside: avoid;
+    margin: 1.5em 0 !important;
+  }
+
+  img {
+    max-width: 100% !important;
+    height: auto !important;
+    page-break-inside: avoid;
+  }
+
+  figcaption {
+    font-size: 9pt !important;
+    color: #666 !important;
+    text-align: center !important;
+    margin-top: 0.5em !important;
+    font-style: italic !important;
+  }
+
+  /* Blockquotes */
+  blockquote {
+    border-left: 4px solid #333 !important;
+    padding-left: 1em !important;
+    margin: 1.5em 0 !important;
+    font-style: italic !important;
+    color: #444 !important;
+    page-break-inside: avoid;
+  }
+
+  /* Lists */
+  ul, ol {
+    margin-bottom: 1em !important;
+  }
+
+  li {
+    margin-bottom: 0.3em !important;
+  }
+
+  /* Horizontal rule */
+  hr {
+    border: none !important;
+    border-top: 1px solid #ccc !important;
+    margin: 2em 0 !important;
+  }
+
+  /* Article meta */
+  .article-header {
+    margin-bottom: 2em !important;
+    padding-bottom: 1em !important;
+    border-bottom: 1px solid #ccc !important;
+  }
+
+  .article-header h1 {
+    border: none !important;
+  }
+
+  .article-meta {
+    font-size: 10pt !important;
+    color: #666 !important;
+  }
+
+  .article-meta .date::before {
+    content: "Published: " !important;
+  }
+
+  .article-meta .reading-time::before {
+    content: " | Reading time: " !important;
+  }
+
+  .article-meta .word-count::before {
+    content: " | Words: " !important;
+  }
+
+  .article-meta .author::before {
+    content: " | By " !important;
+  }
+
+  /* Breadcrumbs */
+  .breadcrumbs {
+    display: none !important;
+  }
+
+  /* TOC - show as simple list at start */
+  .table-of-contents {
+    display: block !important;
+    page-break-after: avoid;
+    margin-bottom: 2em !important;
+    padding: 1em !important;
+    border: 1px solid #ddd !important;
+    background: #fafafa !important;
+    font-size: 10pt !important;
+  }
+
+  .table-of-contents summary {
+    display: none !important;
+  }
+
+  .table-of-contents ul {
+    list-style: none !important;
+    padding-left: 1em !important;
+  }
+
+  .table-of-contents li {
+    margin-bottom: 0.2em !important;
+  }
+
+  .table-of-contents a::after {
+    content: "" !important;
+  }
+
+  /* Code copy buttons */
+  .code-copy {
+    display: none !important;
+  }
+
+  /* Language switcher notice */
+  .article-header::after {
+    content: "Language: " attr(lang) !important;
+    display: block !important;
+    margin-top: 0.5em !important;
+    font-size: 10pt !important;
+    color: #666 !important;
+  }
+
+  /* Related content - show as simple list */
+  .related-content {
+    display: block !important;
+    page-break-before: always;
+    margin-top: 3em !important;
+  }
+
+  .related-content h3 {
+    border-top: 2px solid #ccc !important;
+    padding-top: 1em !important;
+  }
+
+  .related-content ul {
+    list-style: none !important;
+    padding: 0 !important;
+  }
+
+  .related-content li {
+    margin-bottom: 0.5em !important;
+  }
+
+  .related-content a::after {
+    content: " (" attr(href) ")" !important;
+  }
+
+  /* Fix for flex/grid layouts */
+  .flex, .grid {
+    display: block !important;
+  }
+
+  /* Ensure content flows naturally */
+  .prose {
+    max-width: none !important;
+  }
+
+  /* Prevent background images from printing */
+  [style*="background-image"] {
+    background-image: none !important;
+  }
+
+  /* Author info at end */
+  .author-card {
+    display: block !important;
+    page-break-before: always;
+    border-top: 2px solid #ccc !important;
+    padding-top: 1.5em !important;
+    margin-top: 3em !important;
+  }
+
+  .author-card h3 {
+    margin-top: 0 !important;
+  }
+
+  /* Language note */
+  html[lang="el"] body::after,
+  html[lang="en"] body::after {
+    content: "Original: https://farsalinos.github.io" attr(data-url) !important;
+    display: block !important;
+    margin-top: 3em !important;
+    padding-top: 1em !important;
+    border-top: 1px solid #ccc !important;
+    font-size: 9pt !important;
+    color: #999 !important;
+  }
+}
+
+/* Screen-only elements (hidden in print but visible on screen) */
+@media screen {
+  .print-only {
+    display: none !important;
+  }
+}
+
+/* Print-only elements */
+@media print {
+  .screen-only {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+}

@@ -4,8 +4,6 @@ title: Dual Use is Not a Failure
 translationKey: dual-use-transition
 ---
 
-**Dual Use is Not a Failure**
-
 **It's Often the Road Out of Smoking.** If you smoke some days and vape on others - or vape while still having the occasional cigarette - you have probably been told this proves vaping doesn't work. Even worse, many claim that this is even worse than just smoking. Public health critics present dual use as evidence of failure or as added risk. The science tells a different story: for many people, dual use is a transitional stage on the way to complete switching.
 
 {{< figure src="slide2.en.jpg" class="w-[400px]" >}}

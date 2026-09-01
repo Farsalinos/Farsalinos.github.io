@@ -20,3 +20,15 @@ title = "Farsalinos"
   image = "img/avatar.png"
   headline = "Scientific research, policy analysis, and guidance on smoking & THR - FOR EVERYONE"
   bio = ""
+  # For theme's head.html (rel="me" links) - map of maps
+  [params.author.links]
+    social = { twitter = "https://x.com/FarsalinosK", youtube = "https://www.youtube.com/@unsmoked", scholar = "https://scholar.google.com/citations?user=s5w6V6UAAAAJ", github = "https://github.com/Farsalinos", linkedin = "https://www.linkedin.com/in/konstantinos-farsalinos-gr/", wos = "https://www.webofscience.com/wos/author/record/A-1094-2014", orcid = "https://orcid.org/0000-0002-XXXX-XXXX" }
+  # For author-extra.html and schema.html (flat map)
+  [params.author.social]
+    twitter = "https://x.com/FarsalinosK"
+    youtube = "https://www.youtube.com/@unsmoked"
+    scholar = "https://scholar.google.com/citations?user=s5w6V6UAAAAJ"
+    github = "https://github.com/Farsalinos"
+    linkedin = "https://www.linkedin.com/in/konstantinos-farsalinos-gr/"
+    wos = "https://www.webofscience.com/wos/author/record/A-1094-2014"
+    orcid = "https://orcid.org/0000-0002-XXXX-XXXX"

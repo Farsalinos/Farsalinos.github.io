@@ -1,0 +1,103 @@
+# Farsalinos - Unsmoked | Science & Tobacco Harm Reduction
+
+> Scientific research, policy analysis, and guidance on tobacco harm reduction (THR) and smoking cessation.
+> Bilingual: English (en) / Greek (el)
+> Author: K. Farsalinos, MD, MPH, PhD — Physician & Public Health Expert
+> YouTube: @unsmoked
+> Website: https://farsalinos.github.io/
+
+## Main Sections
+
+### Science Deep Dives
+In-depth scientific analysis of THR research, policy, and epidemiology.
+- https://farsalinos.github.io/en/science-deep-dives/
+- https://farsalinos.github.io/el/science-deep-dives/
+
+### Smoker Guides
+Practical guidance for smokers on switching, dual use, and cessation.
+- https://farsalinos.github.io/en/smoker-guides/
+- https://farsalinos.github.io/el/smoker-guides/
+
+### Video Companions
+Written companions to @unsmoked YouTube videos with transcripts and references.
+- https://farsalinos.github.io/en/video-companions/
+- https://farsalinos.github.io/el/video-companions/
+
+### THR Products Explained
+Analysis of nicotine vapes, heated tobacco, nicotine pouches, and NRT.
+- https://farsalinos.github.io/en/thr-products-explained/
+- https://farsalinos.github.io/el/thr-products-explained/
+
+### News & Updates
+Weekly THR literature scans, policy updates, and research commentary.
+- https://farsalinos.github.io/en/news/
+- https://farsalinos.github.io/el/news/
+
+## Key Articles (English)
+
+### Science Deep Dives
+- How Australia has Lost Control of the Nicotine Market? — https://farsalinos.github.io/en/science-deep-dives/australia-dis-en/
+- E-cigarettes for Cessation 2026 — https://farsalinos.github.io/en/science-deep-dives/ecig-cess2026-en/
+- Swedish Cancer Registry & Snus — https://farsalinos.github.io/en/science-deep-dives/swed-cancer-en/
+- The THR Paradox — https://farsalinos.github.io/en/science-deep-dives/thr-paradox-en/
+
+### Smoker Guides
+- Dual Use & Transition — https://farsalinos.github.io/en/smoker-guides/dual-use-transition-en/
+- Popcorn Lung Myth — https://farsalinos.github.io/en/smoker-guides/popcorn-lung-en/
+
+### THR Products Explained
+- Nicotine Vapes (E-cigarettes) — https://farsalinos.github.io/en/thr-products-explained/ecigs-en/
+- Heated Tobacco Products (HTP) — https://farsalinos.github.io/en/thr-products-explained/htp-en/
+- Nicotine Pouches — https://farsalinos.github.io/en/thr-products-explained/nicotine-pouch-en/
+- Non-Nicotine Vapes / NRTS — https://farsalinos.github.io/en/thr-products-explained/nrts-en/
+
+### News
+- GSTHR 2026 Report — https://farsalinos.github.io/en/news/gsthr-2026-en/
+- UK Vaping Rules — https://farsalinos.github.io/en/news/ukrules-vaping-en/
+
+## Key Articles (Greek / Ελληνικά)
+
+### Science Deep Dives
+- Πώς η Αυστραλία Έχασε τον Έλεγχο της Αγοράς Νικοτίνης; — https://farsalinos.github.io/el/science-deep-dives/australia-dis-el/
+- E-cigarettes για Κατάληξη 2026 — https://farsalinos.github.io/el/science-deep-dives/ecig-cess2026-el/
+- Σουηδικό ΚαταστΗμα Καρκίνου & Snus — https://farsalinos.github.io/el/science-deep-dives/swed-cancer-el/
+- Το Παράδοξο της Μείωσης Βλάβης — https://farsalinos.github.io/el/science-deep-dives/thr-paradox-el/
+
+### Smoker Guides
+- Διπλή Χρήση & Μετάβαση — https://farsalinos.github.io/el/smoker-guides/dual-use-transition-el/
+- Μύθος του Popcorn Lung — https://farsalinos.github.io/el/smoker-guides/popcorn-lung-el/
+
+### THR Products Explained
+- Νικοτίνικα Vapes (E-cigarettes) — https://farsalinos.github.io/el/thr-products-explained/ecigs-el/
+- Προϊόντα Θερμαινόμενου Καπνιού (HTP) — https://farsalinos.github.io/el/thr-products-explained/htp-el/
+- Ποσίες Νικοτίνης — https://farsalinos.github.io/el/thr-products-explained/nicotine-pouch-el/
+- Μη-Νικοτίνικα Vapes / NRTS — https://farsalinos.github.io/el/thr-products-explained/nrts-el/
+
+### News
+- GSTHR 2026 Report — https://farsalinos.github.io/el/news/gsthr-2026-el/
+- UK Vaping Rules — https://farsalinos.github.io/el/news/ukrules-vaping-el/
+
+## Structured Data
+All articles include Schema.org JSON-LD structured data:
+- Article / ScholarlyArticle with author (Person), publisher (Organization), dates, wordCount
+- BreadcrumbList for navigation
+- Person schema for author profile (ORCID, Twitter, Scholar, GitHub)
+- Organization schema for website
+- VideoObject for video companions (when applicable)
+
+## RSS / JSON Feeds
+- RSS: https://farsalinos.github.io/index.xml
+- JSON Feed: https://farsalinos.github.io/index.json
+- Per-section feeds available (e.g., /en/science-deep-dives/index.xml)
+
+## Sitemap
+- https://farsalinos.github.io/sitemap.xml (index with en/el sitemaps)
+- Multilingual hreflang annotations on all pages
+
+## Analytics
+- Umami Analytics (cookieless, privacy-friendly)
+- Event tracking enabled for article clicks, downloads
+
+## License
+Content © K. Farsalinos. All rights reserved.
+Scientific content for educational/informational purposes — not medical advice.

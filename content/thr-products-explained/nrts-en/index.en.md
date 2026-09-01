@@ -6,7 +6,7 @@ translationKey: nrts
 
 **Nicotine Replacement Therapy (NRT)** historically represents one of the most significant pharmacological advancements in the field of public health and tobacco control. For a smoker seeking a medically supervised pathway to a smoke-free life, NRT provides a way to manage withdrawal symptoms without the thousands of toxic chemicals found in tobacco smoke. By delivering nicotine in controlled doses, NRT allows individuals to break the physiological addiction to cigarettes. Here are 5 key points regarding the nature, history, and function of NRT.
 
-**1. The Historical Search for a Solution: From Swedish Submarines to the Global Market**
+## 1. From Swedish Submarines to the Global Market
 
 The history of NRT began in the late 1960s in Sweden. Dr. Ove Fernö, a researcher at the pharmaceutical company Leo AB, was approached by the Swedish Navy to help submariners who were unable to smoke while submerged. In response, Fernö developed the first nicotine-infused chewing gum (Nicorette), designed to deliver nicotine through the lining of the mouth.
 
@@ -14,7 +14,7 @@ After extensive clinical trials, the gum was released in Switzerland in 1978 and
 
 {{< figure src="slide2.en.jpg" class="w-[400px]" >}}
 
-**2. The Diversity of Delivery: Forms of NRT**
+## 2. The Diversity of Delivery: Forms of NRT
 
 Unlike electronic cigarettes, which rely on vaporization, NRT is available in several pharmaceutical forms designed to suit different levels of dependence. These are generally categorized into two types:
 
@@ -24,7 +24,7 @@ Unlike electronic cigarettes, which rely on vaporization, NRT is available in se
 
 {{< figure src="slide4.en.jpg" class="w-[400px]" >}}
 
-**3. The Mechanics of Therapy: How it Works**
+## 3. The Mechanics of Therapy: How it Works
 
 The basic principle of NRT is the decoupling of nicotine from the toxic substances produced by combustion. While nicotine is the addictive component, it is the tar, ash, and carbon monoxide in cigarette smoke that cause the vast majority of smoking-related diseases.
 
@@ -34,7 +34,7 @@ The basic principle of NRT is the decoupling of nicotine from the toxic substanc
 
 {{< figure src="slide3.en.jpg" class="w-[400px]" >}}
 
-**4. Disadvantages: The Behavioral and Physiological Gap**
+## 4. Disadvantages: The Behavioral and Physiological Gap
 
 Unfortunately, NRT has notable limitations compared to other alternatives, that substantially reduce its efficacy.
 
@@ -44,7 +44,7 @@ Unfortunately, NRT has notable limitations compared to other alternatives, that 
 
 {{< figure src="slide5.en.jpg" class="w-[400px]" >}}
 
-**5. The Verdict: Efficacy and Harm Reduction**
+## 5. The Verdict: Efficacy and Harm Reduction
 
 NRT is featured on the World Health Organization’s (WHO) Model List of Essential Medicines. Clinical research confirms that using NRT increases the rate of successful quitting by 50% to 70% compared to unassisted attempts.
 

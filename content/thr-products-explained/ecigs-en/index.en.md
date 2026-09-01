@@ -6,13 +6,13 @@ translationKey: ecigs
 
 The **electronic cigarette** represents one of the most significant technological innovations of the last 20 years in the field of tobacco control. For a smoker being unable to quit by currently-approved methods and seeking a less harmful alternative, understanding the concept of vaping is the first step toward transitioning to a smoke-free lifestyle. Here are 5 key points you should know.
 
-**1. The Historical Search for a Solution: From Hon Lik to the Global Market**
+## 1. The Historical Search for a Solution: From Hon Lik to the Global Market
 
 The modern history of the electronic cigarette began in **2003**, when Chinese pharmacist **Hon Lik**, who lost his father to lung cancer, sought a way to consume nicotine without the toxic substances of combustion. His invention was based on the vaporization of liquid through heating. The product was released to the global market around **2006-2007**, marking the start of the electronic cigarette era that allowed millions of smokers to abandon traditional cigarettes.
 
 {{< figure src="slide2.en.jpg" class="w-[400px]" >}}
 
-**2. The Mechanics of Vaping: How it Works**
+## 2. The Mechanics of Vaping: How it Works
 
 The basic principle of the electronic cigarette is the complete **bypassing of combustion**. The device does not contain tobacco leaves, but rather a refill liquid (e-liquid) consisting of propylene glycol, glycerin, flavorings, and nicotine.
 
@@ -24,7 +24,7 @@ The basic principle of the electronic cigarette is the complete **bypassing of 
 
 {{< figure src="slide3.en.jpg" class="w-[400px]" >}}
 
-**3. Scientific and Clinical Data**
+## 3. Scientific and Clinical Data
 
 The chemical difference between cigarette smoke and vapor is vast. A wealth of research leads us to the conclusion that the electronic cigarette is **probably 95% less harmful** than smoking (a conclusion published by Public Health England).
 
@@ -34,7 +34,7 @@ The chemical difference between cigarette smoke and vapor is vast. A wealth of r
 
 {{< figure src="slide4.en.jpg" class="w-[400px]" >}}
 
-**4. Nicotine Absorption and Satisfaction**
+## 4. Nicotine Absorption and Satisfaction
 
 One of the main advantages of the electronic cigarette is its ability to satisfy a smoker's need for nicotine in a manner similar to a cigarette.
 
@@ -44,7 +44,7 @@ One of the main advantages of the electronic cigarette is its ability to satisfy
 
 {{< figure src="slide5.en.jpg" class="w-[400px]" >}}
 
-**5. The Verdict: Harm Reduction**
+## 5. The Verdict: Harm Reduction
 
 Although the electronic cigarette is not 100% harmless, the enormous difference in its toxicological profile makes it one of the most powerful tools for **Tobacco Harm Reduction**.
 

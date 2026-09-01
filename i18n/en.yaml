@@ -1,2 +1,12 @@
 donate_message:
   other: "This content is produced with no funding. If it's useful to you, please consider supporting it."
+
+error:
+  404:
+    title: "Error 404"
+    heading: "Page Not Found 😕"
+    message: "It seems that the page you've requested does not exist."
+    home_link: "Take me home"
+    browse_articles: "Browse all articles"
+    search_site: "Search the site"
+    popular_sections: "Popular sections:"

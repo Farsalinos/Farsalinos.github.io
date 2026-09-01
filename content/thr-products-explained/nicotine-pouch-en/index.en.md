@@ -6,7 +6,7 @@ translationKey: nicotine-pouch
 
 **Nicotine pouches** are small pouches, smaller than the size of a tea bag, which are **placed under the upper lip** and remain stationary for about **30 to 60 minutes**.
 
-**Key Characteristics & Ingredients**
+## Key Characteristics & Ingredients
 
 - **Tobacco-Free:** This is their fundamental difference from traditional Swedish *snus*.
 
@@ -16,7 +16,7 @@ translationKey: nicotine-pouch
 
 {{< figure src="slide3.en.JPG" class="w-[400px]" >}}
 
-**Historical Evolution**
+## Historical Evolution
 
 - **Ancestors:** The oral use of tobacco has a history spanning centuries. Chewing tobacco, which was highly popular in America, became popular in Europe around 1600. In Scandinavia, a variation was created by mixing tobacco with salt and water and placing it under the lip. This product, known as wet snus, became highly popular in the United States during the 19th century. However, it was impractical as it caused significant saliva production that could not be swallowed without causing nausea, forcing users to spit.
 
@@ -26,7 +26,7 @@ translationKey: nicotine-pouch
 
 {{< figure src="slide2.en.JPG" class="w-[400px]" >}}
 
-**Nicotine Absorption & Difference from Cigarettes**
+## Nicotine Absorption & Difference from Cigarettes
 
 - **Slower Absorption:** In contrast to conventional cigarettes where nicotine absorption is extremely rapid—reaching peak blood levels in about 5 to 6 minutes—nicotine pouches take five to ten times longer. Studies show that their maximum blood concentration is achieved in **30 to 60 minutes**.
 
@@ -34,7 +34,7 @@ translationKey: nicotine-pouch
 
 {{< figure src="slide6.en.JPG" class="w-[400px]" >}}
 
-**Safety and Public Health**
+## Safety and Public Health## 
 
 - **High Safety Profile:** Among all tobacco harm reduction alternatives, nicotine pouches carry **the highest safety profile**. However, because they can still cause addiction, they are **not recommended for non-smokers**.
 

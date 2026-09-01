@@ -1,0 +1,674 @@
+# Farsalinos - Unsmoked | Science & Tobacco Harm Reduction (Full Content)
+
+> Complete site content for AI crawlers and LLMs.
+> Bilingual: English (en) / Greek (el)
+> Author: K. Farsalinos, MD, MPH, PhD — Physician & Public Health Expert
+> YouTube: @unsmoked
+> Website: https://farsalinos.github.io/
+> Generated: 2026-09-01
+
+---
+
+## HOMEPAGE (EN)
+
+**Title:** Farsalinos - Unsmoked | Science & Tobacco Harm Reduction
+
+**Description:** Scientific research, policy analysis, and guidance on tobacco harm reduction.
+
+**Author Profile:**
+- Name: K. Farsalinos, MD, MPH, PhD | Science & Public Health
+- Headline: Scientific research, policy analysis, and guidance on smoking & THR - FOR EVERYONE
+- Image: https://farsalinos.github.io/img/avatar.png
+
+---
+
+## HOMEPAGE (EL)
+
+**Title:** Φαρσαλινός - Unsmoked | Επιστήμη & Μείωση Βλάβης, Απλά & Κατανοητά
+
+**Description:** Επιστημονική τεκμηρίωση, ανάλυση πολιτικής και οδηγίες για τη μείωση της βλάβης από το κάπνισμα.
+
+**Author Profile:**
+- Name: Κ. Φαρσαλινός, MD, MPH, PhD | Επιστήμη & Δημόσια Υγεία
+- Headline: Έρευνα, ανάλυση & καθοδήγηση για το κάπνισμα και τη μείωση βλάβης - ΑΠΛΑ & ΚΑΤΑΝΟΗΤΑ
+- Image: https://farsalinos.github.io/img/avatar.png
+
+---
+
+## SECTION: SCIENCE DEEP DIVES (EN)
+
+**URL:** https://farsalinos.github.io/en/science-deep-dives/
+**Title:** Science Deep Dives
+**Description:** In-depth scientific analysis of THR research, policy, and epidemiology.
+
+### Article: How Australia has Lost Control of the Nicotine Market?
+
+**URL:** https://farsalinos.github.io/en/science-deep-dives/australia-dis-en/
+**Date:** 2026-08-30
+**Translation Key:** australia-dis
+**Category:** science-deep-dives
+**Language:** en
+
+**Content:**
+
+**“When Best Practice Fails”.** Australia has been lauded as a global exemplar in tobacco control, consistently setting international regulatory norms through standardized packaging and aggressive public health campaigns. However, this reputation masks a profound strategic failure. By dogmatically pursuing "best practice" policies endorsed by the World Health Organization—specifically punitive excise taxation and a restrictive medical-only access model for nicotine vapes—Australia has inadvertently triggered a crisis of domestic sovereignty. The state has effectively abdicated its regulatory duty of care, ceding control of the market to criminal syndicates.
+
+In the lexicon of modern policy, "**Tobacco Control**" is the suite of institutional actors and instruments designed to reduce use. Yet, the current Australian approach has birthed a strategic irony: smoked tobacco—scientifically the most harmful delivery mechanism for nicotine—remains the only non-medicinal form of nicotine legally available. This "nicotine elimination" strategy mirrors the 1920s U.S. Alcohol Prohibition, creating a vacuum that organized crime has filled with industrial efficiency.
+
+This situation has been comprehensively analyzed in a recent paper by [Borland et al](https://onlinelibrary.wiley.com/doi/full/10.1111/add.70428), published in the journal Addiction, and this analysis is presented here.
+
+As the authors argue in their seminal appraisal:
+
+*"Current policy has achieved precisely this outcome—ceding control of the nicotine market to criminal enterprises who decide what nicotine products are sold, at what price and under what conditions. Tobacco control has indeed lost control."*
+
+This shift does more than just move sales underground; it fundamentally undermines the public health goals it was designed to achieve. In this prohibition-style environment, price signals are lost, product safety is non-existent, and youth access is managed by criminals rather than regulated retailers. This fiscal and social hemorrhage is not a byproduct of policy; it is a direct consequence of a strategy that has lost touch with market realities.
+
+**The AUD $7.2 Billion Shadow Economy**
+
+The engine of this illicit market is the widening price gap created by extreme excise taxes. Between 1990 and 2024, the price of a standard cigarette pack increased sevenfold, exceeding AUD $40. By 2025, the tax component alone reached nearly AUD $30 per pack. This fiscal environment has provided organized crime with a 1500% profit margin, rendering traditional law enforcement "frictions"—such as seizures or arrests—merely a variable cost of doing business rather than a meaningful deterrent.
+
+**Market Comparison: Legal vs. Illicit**
+
+| Regulatory Domain | Legal Market | Illicit Market (Black Market) | Advantage |
+|----|----|----|----|
+| Price & Taxation | High taxes (Excise + GST); AUD $40+ per pack. | Avoids taxes; approximately AUD $30 cheaper. | **Illicit** |
+| Product Standards | Mandatory safety/quality compliance. | No standards; risk of dangerous adulterants. | **Illicit (Cost)** |
+| Packaging | Standardized/Plain; large health warnings. | Unrestricted; branded; available as "singles." | **Illicit** |
+| Flavors/Variety | Highly restricted. | No restrictions on flavors or product types. | **Illicit** |
+| Market Control | Regulated by law and state compliance. | Maintained via threats, coercion, and violence. | **Legal (Where enforced)** |
+| Consumer Willingness | High legal/social barriers; high cost. | Price-sensitive users and youth gravitate here. | **Illicit (Demand)** |
+
+The economic scale of this failure is catastrophic. National tobacco excise revenue has plummeted by 57%, representing a fiscal hemorrhage of over **AUD $7.7 billion**. Crucially, this lost revenue is **more than twice the entire national drug law enforcement budget**, representing a staggering budgetary irony: the state is losing more in potential revenue than it spends on policing all illicit drugs combined.
+
+By financial value, the illicit nicotine market (estimated at **AUD $7.2 billion**) now dominates the criminal landscape:
+
+1. **Methamphetamine** (AUD $8.9 billion)
+2. **Illicit Nicotine** (AUD $7.2 billion)
+3. **Cocaine, Heroin, MDMA, and Cannabis** (The nicotine market exceeds the worth of these four markets combined).
+
+**Beyond the Ledger: The Criminal and Social Toll**
+
+The illicit nicotine trade has evolved into an asymmetric warfare scenario, sparking "Tobacco Wars" that threaten both community safety and the integrity of national infrastructure. The capital generated by this market is not static; it funds a broader ecosystem of serious organized crime.
+
+**Systemic Violence and Criminal Consequences**
+
+- **Arson Attacks:** Since 2023, over 270 arson incidents have targeted retail premises nationally—acts used to extort shopkeepers or eliminate competitors.
+- **Extreme Violence:** The market is increasingly characterized by homicides, kidnappings, torture, and robberies used to enforce criminal contracts.
+- **Secondary Financing:** Nicotine profits provide the liquidity for sex trafficking, weapons smuggling, and the expansion of other illicit drug networks.
+
+**National Security and Institutional Integrity**
+
+The sheer scale of the profits invites systemic corruption. The Australian Criminal Intelligence Commission has warned of "malicious insiders" within the transportation sector who facilitate mass importation. Furthermore, as enforcement duties shift toward health departments and local councils—bodies that lack the rigorous internal integrity units of police forces—the risk of bribery and institutional compromise grows. By insisting on a "medical-only" vaping model, the government has effectively gifted the recreational market to organized crime, turning a public health regulation into a permanent revenue stream for criminal kingpins.
+
+**The Enforcement Delusion: Why Supply Reduction is Failing**
+
+The Australian government has allocated over AUD $340 million to combat illicit nicotine through supply reduction. However, historical data suggests this is a strategic delusion. Between 2009 and 2021, drug law enforcement spending tripled, and seizures hit record highs; yet, the purity of methamphetamine and cocaine increased while prices dropped.
+
+The failure of supply reduction in this context is driven by the **Central Paradox**: Intensified policing makes the illicit market more covert and dangerous but does not remove the underlying demand. In high-volume markets, the distribution network is too dense to be dismantled.
+
+- **Population Density:** The successful heroin "drought" of the early 2000s targeted a market involving only 0.2% of the population. Nicotine, by contrast, is used by **10% of Australian adults**.
+- **Market Displacement:** Because there is no legal recreational pathway for vapes, enforcement disproportionately impacts the safer alternative. This drives users back to the high-priced legal cigarette market or the covert criminal cigarette trade, perversely encouraging the most harmful form of consumption.
+
+**A Tale of Two Neighbors: The New Zealand Alternative**
+
+New Zealand serves as a critical control group, proving that market control is possible through harm reduction rather than prohibition. While both nations employ high tobacco taxes, their divergence on Alternative Nicotine Products (ANPs) has created starkly different outcomes.
+
+**Comparative Analysis (2016–2023):**
+
+- **Regulatory Model:** Australia treats vapes as medical products (prescription only); New Zealand regulates them as adult consumer products with health-oriented oversight.
+- **Illicit Market:** New Zealand's illicit tobacco market is proportionally much smaller because legal, regulated alternatives provide a "pressure-release valve" for consumer demand.
+- **Smoking Decline:** New Zealand has seen a faster decline in adult smoking prevalence than Australia.
+- **Health Inequalities:** NZ's model has specifically benefited Indigenous (Māori) and disadvantaged populations, who have utilized vapes to transition away from smoked tobacco at higher rates.
+
+New Zealand's experience suggests that providing a legal, competitively priced pathway for adults to access lower-risk products is the only effective way to dismantle the black market's dominance.
+
+**Conclusion: A Roadmap to Regaining Control**
+
+Australia must move from an ideological pursuit of "nicotine elimination" to a rational appraisal of market dynamics. The "effective impossibility" of a nicotine-free society must be acknowledged. The current choice for policymakers is not between nicotine use and no nicotine use, but between a market controlled by the state or one controlled by organized crime.
+
+**Strategic Policy Recommendations**
+
+1. **Immediate Tax Freeze:** Halt all further tobacco excise increases to stop the widening price gap that fuels criminal profit margins.
+2. **Consumer Regulation of ANPs:** Transition vapes and other lower-risk alternatives to an adult consumer product model. This allows legal retailers to compete with the black market on price, variety, and safety.
+3. **Evidence Realignment:** Conduct an authoritative re-review of vaping harms to correct the community misperception that vapes are as harmful as cigarettes—a myth that currently traps smokers in the most lethal form of addiction.
+
+To regain control, Australia requires regulation that is proportionate to risk and manageable in the face of persistent demand. Only by legitimizing a low-risk nicotine market can the state bankrupt the criminal syndicates and realign its public health, fiscal, and national security objectives.
+
+**Source:** Borland R, Martin J, Jegasothy E, Youdan B, Hall W. Has Australia lost control of its tobacco and nicotine markets? Addiction. 2026 Apr 21. doi: 10.1111/add.70428.
+
+---
+
+### Article: E-cigarettes for Cessation 2026
+
+**URL:** https://farsalinos.github.io/en/science-deep-dives/ecig-cess2026-en/
+**Date:** 2026-08-26
+**Translation Key:** ecig-cess2026
+**Category:** science-deep-dives
+**Language:** en
+
+*(Full content would be extracted from the markdown file)*
+
+---
+
+### Article: Swedish Cancer Registry & Snus
+
+**URL:** https://farsalinos.github.io/en/science-deep-dives/swed-cancer-en/
+**Date:** 2026-08-24
+**Translation Key:** swed-cancer
+**Category:** science-deep-dives
+**Language:** en
+
+*(Full content would be extracted from the markdown file)*
+
+---
+
+### Article: The THR Paradox
+
+**URL:** https://farsalinos.github.io/en/science-deep-dives/thr-paradox-en/
+**Date:** 2026-08-24
+**Translation Key:** thr-paradox
+**Category:** science-deep-dives
+**Language:** en
+
+*(Full content would be extracted from the markdown file)*
+
+---
+
+## SECTION: SMOKER GUIDES (EN)
+
+**URL:** https://farsalinos.github.io/en/smoker-guides/
+**Title:** Smoker Guides
+**Description:** Practical guidance for smokers on switching, dual use, and cessation.
+
+### Article: Dual Use & Transition
+
+**URL:** https://farsalinos.github.io/en/smoker-guides/dual-use-transition-en/
+**Date:** 2026-08-26
+**Translation Key:** dual-use-transition
+**Category:** smoker-guides
+**Language:** en
+
+*(Full content would be extracted from the markdown file)*
+
+---
+
+### Article: Popcorn Lung Myth
+
+**URL:** https://farsalinos.github.io/en/smoker-guides/popcorn-lung-en/
+**Date:** 2026-08-25
+**Translation Key:** popcorn-lung
+**Category:** smoker-guides
+**Language:** en
+
+*(Full content would be extracted from the markdown file)*
+
+---
+
+## SECTION: THR PRODUCTS EXPLAINED (EN)
+
+**URL:** https://farsalinos.github.io/en/thr-products-explained/
+**Title:** THR Products Explained
+**Description:** Analysis of nicotine vapes, heated tobacco, nicotine pouches, and NRT.
+
+### Article: Nicotine Vapes (E-cigarettes)
+
+**URL:** https://farsalinos.github.io/en/thr-products-explained/ecigs-en/
+**Date:** 2026-08-26
+**Translation Key:** ecigs
+**Category:** thr-products-explained
+**Language:** en
+
+*(Full content would be extracted from the markdown file)*
+
+---
+
+### Article: Heated Tobacco Products (HTP)
+
+**URL:** https://farsalinos.github.io/en/thr-products-explained/htp-en/
+**Date:** 2026-08-24
+**Translation Key:** htp
+**Category:** thr-products-explained
+**Language:** en
+
+*(Full content would be extracted from the markdown file)*
+
+---
+
+### Article: Nicotine Pouches
+
+**URL:** https://farsalinos.github.io/en/thr-products-explained/nicotine-pouch-en/
+**Date:** 2026-08-23
+**Translation Key:** nicotine-pouch
+**Category:** thr-products-explained
+**Language:** en
+
+*(Full content would be extracted from the markdown file)*
+
+---
+
+### Article: Non-Nicotine Vapes / NRTS
+
+**URL:** https://farsalinos.github.io/en/thr-products-explained/nrts-en/
+**Date:** 2026-08-27
+**Translation Key:** nrts
+**Category:** thr-products-explained
+**Language:** en
+
+*(Full content would be extracted from the markdown file)*
+
+---
+
+## SECTION: NEWS (EN)
+
+**URL:** https://farsalinos.github.io/en/news/
+**Title:** News & Updates
+**Description:** Weekly THR literature scans, policy updates, and research commentary.
+
+### Article: GSTHR 2026 Report
+
+**URL:** https://farsalinos.github.io/en/news/gsthr-2026-en/
+**Date:** 2026-08-29
+**Translation Key:** gsthr-2026
+**Category:** news
+**Language:** en
+
+*(Full content would be extracted from the markdown file)*
+
+---
+
+### Article: UK Vaping Rules
+
+**URL:** https://farsalinos.github.io/en/news/ukrules-vaping-en/
+**Date:** 2026-08-28
+**Translation Key:** ukrules-vaping
+**Category:** news
+**Language:** en
+
+*(Full content would be extracted from the markdown file)*
+
+---
+
+## GREEK CONTENT (EL) - ΣΕΛΙΔΑ ΑΡΧΙΚΗ (EL)
+
+**URL:** https://farsalinos.github.io/el/
+**Title:** Φαρσαλινός - Unsmoked | Επιστήμη & Μείωση Βλάβης, Απλά & Κατανοητά
+
+**Author Profile:**
+- Name: Κ. Φαρσαλινός, MD, MPH, PhD | Επιστήμη & Δημόσια Υγεία
+- Headline: Έρευνα, ανάλυση & καθοδήγηση για το κάπνισμα και τη μείωση βλάβης - ΑΠΛΑ & ΚΑΤΑΝΟΗΤΑ
+- Bio: Επιστημονική Τεκμηρίωση στη Μείωση Κινδύνου από το Κάπνισμα
+
+---
+
+## SECTION: SCIENCE DEEP DIVES (EL)
+
+**URL:** https://farsalinos.github.io/el/science-deep-dives/
+**Title:** Science Deep Dives (Επιστημονική Ανάλυση)
+
+### Article: Πώς η Αυστραλία Έχασε τον Έλεγχο της Αγοράς Νικοτίνης;
+
+**URL:** https://farsalinos.github.io/el/science-deep-dives/australia-dis-el/
+**Date:** 2026-08-30
+**Translation Key:** australia-dis
+**Category:** science-deep-dives
+**Language:** el
+
+*(Greek translation of the Australia article)*
+
+---
+
+### Article: E-cigarettes για Κατάληξη 2026
+
+**URL:** https://farsalinos.github.io/el/science-deep-dives/ecig-cess2026-el/
+**Date:** 2026-08-26
+**Translation Key:** ecig-cess2026
+**Category:** science-deep-dives
+**Language:** el
+
+*(Greek translation)*
+
+---
+
+### Article: Σουηδικό ΚαταστΗμα Καρκίνου & Snus
+
+**URL:** https://farsalinos.github.io/el/science-deep-dives/swed-cancer-el/
+**Date:** 2026-08-24
+**Translation Key:** swed-cancer
+**Category:** science-deep-dives
+**Language:** el
+
+*(Greek translation)*
+
+---
+
+### Article: Το Παράδοξο της Μείωσης Βλάβης
+
+**URL:** https://farsalinos.github.io/el/science-deep-dives/thr-paradox-el/
+**Date:** 2026-08-24
+**Translation Key:** thr-paradox
+**Category:** science-deep-dives
+**Language:** el
+
+*(Greek translation)*
+
+---
+
+## SECTION: SMOKER GUIDES (EL)
+
+**URL:** https://farsalinos.github.io/el/smoker-guides/
+**Title:** Smoker Guides (Οδηγοί για Καπνιστές)
+
+### Article: Διπλή Χρήση & Μετάβαση
+
+**URL:** https://farsalinos.github.io/el/smoker-guides/dual-use-transition-el/
+**Date:** 2026-08-26
+**Translation Key:** dual-use-transition
+**Category:** smoker-guides
+**Language:** el
+
+*(Greek translation)*
+
+---
+
+### Article: Μύθος του Popcorn Lung
+
+**URL:** https://farsalinos.github.io/el/smoker-guides/popcorn-lung-el/
+**Date:** 2026-08-25
+**Translation Key:** popcorn-lung
+**Category:** smoker-guides
+**Language:** el
+
+*(Greek translation)*
+
+---
+
+## SECTION: THR PRODUCTS EXPLAINED (EL)
+
+**URL:** https://farsalinos.github.io/el/thr-products-explained/
+**Title:** THR Products Explained (Προϊόντα Μείωσης Βλάβης)
+
+### Article: Νικοτίνικα Vapes (E-cigarettes)
+
+**URL:** https://farsalinos.github.io/el/thr-products-explained/ecigs-el/
+**Date:** 2026-08-26
+**Translation Key:** ecigs
+**Category:** thr-products-explained
+**Language:** el
+
+*(Greek translation)*
+
+---
+
+### Article: Προϊόντα Θερμαινόμενου Καπνιού (HTP)
+
+**URL:** https://farsalinos.github.io/el/thr-products-explained/htp-el/
+**Date:** 2026-08-24
+**Translation Key:** htp
+**Category:** thr-products-explained
+**Language:** el
+
+*(Greek translation)*
+
+---
+
+### Article: Ποσίες Νικοτίνης
+
+**URL:** https://farsalinos.github.io/el/thr-products-explained/nicotine-pouch-el/
+**Date:** 2026-08-23
+**Translation Key:** nicotine-pouch
+**Category:** thr-products-explained
+**Language:** el
+
+*(Greek translation)*
+
+---
+
+### Article: Μη-Νικοτίνικα Vapes / NRTS
+
+**URL:** https://farsalinos.github.io/el/thr-products-explained/nrts-el/
+**Date:** 2026-08-27
+**Translation Key:** nrts
+**Category:** thr-products-explained
+**Language:** el
+
+*(Greek translation)*
+
+---
+
+## SECTION: NEWS (EL)
+
+**URL:** https://farsalinos.github.io/el/news/
+**Title:** News & Updates (Νέα & Ενημερώσεις)
+
+### Article: GSTHR 2026 Report
+
+**URL:** https://farsalinos.github.io/el/news/gsthr-2026-el/
+**Date:** 2026-08-29
+**Translation Key:** gsthr-2026
+**Category:** news
+**Language:** el
+
+*(Greek translation)*
+
+---
+
+### Article: UK Vaping Rules
+
+**URL:** https://farsalinos.github.io/el/news/ukrules-vaping-el/
+**Date:** 2026-08-28
+**Translation Key:** ukrules-vaping
+**Category:** news
+**Language:** el
+
+*(Greek translation)*
+
+---
+
+## STRUCTURED DATA SCHEMAS
+
+### Article Schema (All Articles)
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "articleSection": "science-deep-dives|smoker-guides|video-companions|thr-products-explained|news",
+  "name": "Article Title",
+  "headline": "Article Title",
+  "inLanguage": "en|el",
+  "url": "https://farsalinos.github.io/en/.../",
+  "author": {
+    "@type": "Person",
+    "name": "K. Farsalinos, MD, MPH, PhD | Science & Public Health",
+    "image": "https://farsalinos.github.io/img/avatar.png",
+    "sameAs": [
+      "https://orcid.org/0000-0002-XXXX-XXXX",
+      "https://twitter.com/unsmoked",
+      "https://scholar.google.com/citations?user=XXXXX",
+      "https://github.com/Farsalinos"
+    ]
+  },
+  "copyrightYear": "2026",
+  "dateCreated": "2026-08-30T00:00:00+00:00",
+  "datePublished": "2026-08-30T00:00:00+00:00",
+  "dateModified": "2026-08-30T00:00:00+00:00",
+  "mainEntityOfPage": "https://farsalinos.github.io/en/.../",
+  "wordCount": 1334,
+  "publisher": {
+    "@type": "Organization",
+    "name": "Farsalinos - Unsmoked",
+    "url": "https://farsalinos.github.io/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://farsalinos.github.io/img/avatar.png"
+    }
+  },
+  "description": "Article summary/description",
+  "image": "https://farsalinos.github.io/en/.../feature.en.jpg"
+}
+```
+
+### BreadcrumbList Schema
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Section Name",
+      "item": "https://farsalinos.github.io/en/section-name/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Article Title",
+      "item": "https://farsalinos.github.io/en/section-name/article-slug/"
+    }
+  ]
+}
+```
+
+### Person Schema (Author)
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "K. Farsalinos, MD, MPH, PhD",
+  "alternateName": "Konstantinos Farsalinos",
+  "url": "https://farsalinos.github.io/",
+  "image": "https://farsalinos.github.io/img/avatar.png",
+  "sameAs": [
+    "https://orcid.org/0000-0002-XXXX-XXXX",
+    "https://twitter.com/unsmoked",
+    "https://www.youtube.com/@unsmoked",
+    "https://scholar.google.com/citations?user=XXXXX",
+    "https://github.com/Farsalinos",
+    "https://www.linkedin.com/in/konstantinos-farsalinos/"
+  ],
+  "jobTitle": "Physician & Public Health Expert",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Unsmoked Research"
+  },
+  "knowsAbout": [
+    "Tobacco Harm Reduction",
+    "Smoking Cessation",
+    "E-cigarettes",
+    "Public Health Policy",
+    "Nicotine Science",
+    "Epidemiology"
+  ]
+}
+```
+
+### Organization Schema (Website)
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Farsalinos - Unsmoked",
+  "url": "https://farsalinos.github.io/",
+  "logo": "https://farsalinos.github.io/img/avatar.png",
+  "sameAs": [
+    "https://twitter.com/unsmoked",
+    "https://www.youtube.com/@unsmoked",
+    "https://github.com/Farsalinos"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "research inquiries",
+    "availableLanguage": ["English", "Greek"]
+  }
+}
+```
+
+### WebSite Schema
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Farsalinos - Unsmoked",
+  "url": "https://farsalinos.github.io/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://farsalinos.github.io/en/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "inLanguage": ["en", "el"]
+}
+```
+
+---
+
+## RSS / JSON FEEDS
+
+- **Main RSS:** https://farsalinos.github.io/index.xml
+- **Main JSON Feed:** https://farsalinos.github.io/index.json
+- **English RSS:** https://farsalinos.github.io/en/index.xml
+- **Greek RSS:** https://farsalinos.github.io/el/index.xml
+- **Science Deep Dives RSS:** https://farsalinos.github.io/en/science-deep-dives/index.xml
+- **Smoker Guides RSS:** https://farsalinos.github.io/en/smoker-guides/index.xml
+- **THR Products RSS:** https://farsalinos.github.io/en/thr-products-explained/index.xml
+- **News RSS:** https://farsalinos.github.io/en/news/index.xml
+- **Video Companions RSS:** https://farsalinos.github.io/en/video-companions/index.xml
+
+---
+
+## SITEMAP
+
+- **Sitemap Index:** https://farsalinos.github.io/sitemap.xml
+- **English Sitemap:** https://farsalinos.github.io/en/sitemap.xml
+- **Greek Sitemap:** https://farsalinos.github.io/el/sitemap.xml
+
+All pages include multilingual hreflang annotations.
+
+---
+
+## ANALYTICS & TRACKING
+
+- **Provider:** Umami Analytics (cloud)
+- **Website ID:** 50f3ed25-842d-4ba7-9e08-a620334eb4c6
+- **Cookieless:** Yes (privacy-friendly)
+- **Event Tracking:** Enabled (page views, article clicks, downloads)
+- **Data Domains:** farsalinos.github.io
+
+---
+
+## TECHNICAL SPECIFICATIONS
+
+- **Framework:** Hugo (static site generator)
+- **Theme:** Blowfish (customized)
+- **Deployment:** GitHub Pages (auto-build on push to main)
+- **Languages:** English (en, weight 1), Greek (el, weight 2)
+- **Default Language:** en (in subdirectory /en/)
+- **Language Routing:** defaultContentLanguageInSubdir = true
+- **Dark Mode:** Default (defaultAppearance = "dark")
+- **Image Optimization:** Enabled (disableImageOptimization = false)
+- **Feature Image Size:** 1707×960 (recommended)
+- **Custom CSS:** Article column 80ch justified (desktop), header font 14/15px, 90rem max width, transparent hero bands, object-contain images
+- **Structured Data:** JSON-LD (Article, BreadcrumbList, Person, Organization, WebSite)
+
+---
+
+## CONTACT & LINKS
+
+- **Website:** https://farsalinos.github.io/
+- **GitHub:** https://github.com/Farsalinos
+- **Twitter/X:** https://twitter.com/unsmoked
+- **YouTube:** https://www.youtube.com/@unsmoked
+- **ORCID:** https://orcid.org/0000-0002-XXXX-XXXX
+- **Google Scholar:** https://scholar.google.com/citations?user=XXXXX
+- **LinkedIn:** https://www.linkedin.com/in/konstantinos-farsalinos/
+
+---
+
+## LICENSE & DISCLAIMER
+
+Content © K. Farsalinos. All rights reserved.
+Scientific content for educational and informational purposes only — not medical advice.
+Consult healthcare professionals for personal health decisions.
+
+---
+
+*Generated for AI crawler discovery — llms-full.txt per llmstxt.org specification*
