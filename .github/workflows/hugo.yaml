@@ -47,10 +47,9 @@ jobs:
         with:
           directory: ./public
           arguments: |
-            --assume-extension
+            --assume-extension .html
             --disable-external
-            --check-sri
-            --url-ignore "/^http:\/\/localhost:/,/^https:\/\/analytics\.umami\.is/"
+            --ignore-urls "/^http:\/\/localhost:/,/^https:\/\/analytics\.umami\.is/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
