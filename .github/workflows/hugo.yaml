@@ -43,10 +43,10 @@ jobs:
           HUGO_ENABLEGITINFO: true
 
       - name: Test with HTMLProofer
-        uses: gjtorikian/html-proofer@v4
+        uses: chabad360/htmlproofer@v2
         with:
           directory: ./public
-          options: |
+          arguments: |
             --assume-extension
             --disable-external
             --check-favicon
