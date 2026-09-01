@@ -43,7 +43,7 @@ jobs:
           HUGO_ENABLEGITINFO: true
 
       - name: Test with HTMLProofer
-        uses: gjtorikian/html-proofer@v5
+        uses: gjtorikian/html-proofer@v4
         with:
           directory: ./public
           options: |
