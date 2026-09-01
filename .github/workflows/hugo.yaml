@@ -49,10 +49,7 @@ jobs:
           arguments: |
             --assume-extension
             --disable-external
-            --check-favicon
-            --check-html
-            --check-img-http
-            --check-opengraph
+            --check-sri
             --url-ignore "/^http:\/\/localhost:/,/^https:\/\/analytics\.umami\.is/"
 
       - name: Upload artifact
