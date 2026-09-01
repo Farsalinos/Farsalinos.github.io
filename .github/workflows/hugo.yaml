@@ -52,7 +52,7 @@ jobs:
             --ignore-missing-alt
             --ignore-empty-alt
             --ignore-empty-mailto
-            --ignore-files "/search/,/page/2/"
+            --ignore-urls /search/
             --no-check-internal-hash
             --no-check-external-hash
 
