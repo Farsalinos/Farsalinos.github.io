@@ -4,7 +4,8 @@ title: Dual Use is Not a Failure
 translationKey: dual-use-transition
 ---
 
-**This pattern often marks the path out of smoking.** If you smoke some days and vape on others—or vape while still having the occasional cigarette—you've probably heard this proves vaping fails. Worse, some claim dual use is more dangerous than smoking alone. Critics present it as evidence of failure or added risk. The science tells a different story: for many, dual use is a transitional stage toward complete switching.
+**This pattern often marks the path out of smoking.**
+If you smoke some days and vape on others—or vape while still having the occasional cigarette—you've probably heard this proves vaping fails. Worse, some claim dual use is more dangerous than smoking alone. Critics present it as evidence of failure or added risk. The science tells a different story: for many, dual use is a transitional stage toward complete switching.
 
 {{< figure src="slide2.en.jpg" class="w-[400px]" >}}
 

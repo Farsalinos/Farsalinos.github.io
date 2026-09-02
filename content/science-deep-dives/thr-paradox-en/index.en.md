@@ -5,12 +5,11 @@ translationKey: thr-paradox
 ---
 
 **Why Cigarettes Are Everywhere But Non-Combustible Nicotine Alternatives Are Banned?**
-
 Here’s something that should make you stop and think: In 2026, you can walk into almost any store worldwide and buy a pack of cigarettes - a product that kills up to half of its long-term users. But try to buy a vape or nicotine pouch to help quit smoking, and you might be breaking the law.
 
 {{< figure src="slide2.en.jpg" class="w-[400px]" >}}
 
-This isn’t just an occasional inconsistency - it’s a global pattern that defies logic and costs lives.
+This is a global pattern that defies logic and costs lives.
 
 Let’s look at the numbers that reveal this shocking paradox:
 
@@ -68,12 +67,12 @@ The good news? Change IS happening. Countries like Sweden, New Zealand, and Japa
 
 **Swedish men**, for instance, have lung cancer rates less than HALF the EU average - largely due to decades of snus use as a cigarette alternative.
 
-The solution isn’t complicated: **regulate safer nicotine products proportionate to their risk** - not ban them while leaving the most deadly option freely available.
+The solution isn’t complicated: **regulate safer nicotine products proportionate to their risk.**
 
-Smokers deserve access to less harmful alternatives..
+Smokers deserve access to less harmful alternatives.
+
+*Sources: Global State of Tobacco Harm Reduction 2026 Report \| GSTHR.ORG*
 
 {{< figure src="slide10.en.jpg" class="w-[400px]" >}}
 
 {{< figure src="slide12.en.jpg" class="w-[400px]" >}}
-
-*Sources: Global State of Tobacco Harm Reduction 2026 Report \| GSTHR.ORG*

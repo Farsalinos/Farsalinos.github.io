@@ -47,7 +47,7 @@ Contrasting observed Swedish mortality against EU counterfactual prevalence, the
 
 {{< figure src="slide7.en.jpg" class="w-[400px]" >}}
 
-## The Latency Effect Explained
+## The Latency Effect
 
 A key nuance clarifies why full cancer benefits don't appear instantly across all age bands: the latency effect.
 
@@ -63,15 +63,13 @@ As younger cohorts with less smoking exposure enter higher-risk ages, the full i
 
 {{< figure src="slide9.en.jpg" class="w-[400px]" >}}
 
-## The Lesson: Long-Term THR Delivers
+## Long-Term THR Works
 
 Sweden proves tobacco harm reduction, applied thoughtfully and consistently over decades, yields measurable population health gains.
 
 The Swedish model shows: strong preventive measures (tax hikes, ad bans, cessation support) cut smoking initiation and boost quitting; continued access to less harmful alternatives like snus gives smokers unwilling or unable to quit nicotine entirely a viable path; a pragmatic stance recognizing nicotine isn't the core problem — smoke is — produces tangible public health results over time.
 
 {{< figure src="slide11.en.jpg" class="w-[400px]" >}}
-
-Such population health gains align with Sweden's reduced combustion exposure from falling smoking — but combined with historically low smoking rates, sustained snus use, and quantified lives saved, the case for tobacco harm reduction's effectiveness becomes compelling.
 
 Nations aiming to curb smoking-related disease can draw a clear lesson from Sweden's long-term experiment: when smokers access satisfying, less harmful alternatives regulated sensibly rather than banned, significant public health improvements follow across generations.
 

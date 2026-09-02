@@ -10,7 +10,7 @@ Ten out of 100 smokers quit with nicotine e-cigarettes. Only six in 100 succeed 
 
 ## What the review examined
 
-The Cochrane Collaboration maintains this as a 'living' systematic review: researchers screen new trials monthly and update whenever relevant evidence appears. This update pooled 80 randomised controlled trials involving 29,861 adults who smoke — nine trials added since the previous version. Crucially, the conclusions did not change. Randomised trials are the gold standard for answering whether a treatment works, and GRADE certainty ratings tell us how much to trust each result.
+The Cochrane Collaboration maintains this as a 'living' systematic review: researchers screen new trials monthly and update whenever relevant evidence appears. This update pooled 80 randomised controlled trials involving 29,861 adults who smoke — nine trials added since the previous version. The conclusions did not change. Randomised trials are the gold standard for answering whether a treatment works, and GRADE certainty ratings tell us how much to trust each result.
 
 {{< figure src="slide2.en.jpg" class="w-[400px]" >}}
 
@@ -18,15 +18,15 @@ The Cochrane Collaboration maintains this as a 'living' systematic review: resea
 
 Three comparisons stand out:
 
-- Against nicotine replacement therapy (NRT): high-certainty evidence that nicotine e-cigarettes increase quitting (RR 1.61). High certainty is rare in this field — it means we can be very confident in the result.
+- **Against nicotine replacement therapy (NRT):** high-certainty evidence that nicotine e-cigarettes increase quitting (RR 1.61). 
 
-- Against nicotine-free e-cigarettes: moderate-certainty evidence they quit more people (RR 1.34), so the nicotine itself matters.
+- **Against nicotine-free e-cigarettes:** moderate-certainty evidence they quit more people (RR 1.34), so the nicotine itself matters.
 
-- Against behavioural support alone or no support: low-certainty evidence still favours e-cigarettes (RR 1.75), downgraded only because participants knew which treatment they received.
+- **Against behavioural support alone or no support:** low-certainty evidence still favours e-cigarettes (RR 1.75), downgraded only because participants knew which treatment they received.
 
   {{< figure src="slide3.en.jpg" class="w-[400px]" >}}
 
-## What about safety?
+## What about e-cigarette safety?
 
 Serious adverse events were low across all study arms, with moderate-certainty evidence that rates are similar between e-cigarettes and NRT. Non-serious side effects were comparable too. No serious short-term harm was detected — but the authors are explicit that longer, larger trials are needed, because effects beyond 12 months remain unknown.
 
