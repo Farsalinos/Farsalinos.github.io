@@ -6,6 +6,9 @@
 # Test/build folders
 /public_test/
 /public_test3/
+/public_before/
+/public_after/
+/public_after_ci/
 
 # OS/editor files
 .DS_Store
