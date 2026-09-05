@@ -77,6 +77,10 @@ Starting September 1, 2026, New York imposed a 75% wholesale tax on tobacco-free
 
 The figures point to a continued drift of consumers away from tracked convenience-store vapor sales and toward untracked specialty and online channels — most of it unauthorized disposable product — even as legal, PMTA-authorized nicotine pouches keep expanding.
 
+**New study reports that the majority of e-cigarette sales in convenience and grocery channels were estimated to be unauthorized**
+
+A study published in [NEJM Evidence](https://evidence.nejm.org/doi/10.1056/EVIDpha2600137) reportes that as of December 2025, 69.4% of e-cigarette product sales in convenience and grocery channels were estimated to be unauthorized. While the vast majority of tobacco-flavored e-cigarette sales were FDA authorized, only a small minority of menthol-flavored sales and practically non of other non-tobacco flavors involved authorized products. These are the results of prohibitionand over-restrictive regulation, failing to cope with the demand.
+
 ------------------------------------------------------------------------
 
 ## 4. Consumption Trends: Gallup’s First Pouch Measurement
