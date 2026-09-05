@@ -79,7 +79,7 @@ The figures point to a continued drift of consumers away from tracked convenienc
 
 ------------------------------------------------------------------------
 
-## 5. Consumption Trends: Gallup’s First Pouch Measurement
+## 4. Consumption Trends: Gallup’s First Pouch Measurement
 
 **A new Gallup survey, picked up widely on August 29, 2026, sets the first national US benchmark for nicotine pouch use alongside cigarettes and vaping.**
 
@@ -89,7 +89,7 @@ Since this is Gallup’s baseline reading for pouches, the numbers should be tre
 
 ------------------------------------------------------------------------
 
-## 6. Policy Debates Outside the US
+## 5. Policy Debates Outside the US
 
 ### Australia: a coalition plan to cut excise and legalize regulated vape/pouch sales
 
