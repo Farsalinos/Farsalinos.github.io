@@ -1,7 +1,8 @@
 ---
 date: 2026-08-24
 title: The Swedish Miracle
-translationKey: swed-cancer
+4|translationKey: swed-cancer
+tags: ["Sweden", "Cancer Rates", "Snus", "Tobacco Control", "Epidemiology"]
 ---
 
 **Swedish males show lung cancer incidence below HALF the EU mean — harm reduction explains the gap.**

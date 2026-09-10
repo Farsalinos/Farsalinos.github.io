@@ -1,7 +1,8 @@
 ---
 date: 2026-08-24
 title: The Global Paradox
-translationKey: thr-paradox
+4|translationKey: thr-paradox
+tags: ["Harm Reduction", "Paradox", "Regulation", "Tobacco Industry", "Public Health"]
 ---
 
 **Why Cigarettes Are Everywhere But Non-Combustible Nicotine Alternatives Are Banned?**

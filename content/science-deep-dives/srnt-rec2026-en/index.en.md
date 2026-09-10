@@ -1,7 +1,8 @@
 ---
 date: 2026-09-02
 title: SRNT Recommendations to US Physicians on Nicotine E-Cigarettes
-translationKey: srnt-rec2026
+4|translationKey: srnt-rec2026
+tags: ["SRNT", "Research", "Nicotine", "Policy", "Conference"]
 ---
 
 The international Society for Research on Nicotine and Tobacco (SRNT) recently [published in JAMA](https://jamanetwork.com/journals/jama/article-abstract/2852321) its recommendations for U.S. clinicians on e-cigarettes and smoking cessation. Here, I examine the scientific, clinical, and ethical foundations behind these guidelines. They mark a landmark shift toward active harm reduction for adult smokers in the United States, weighing robust clinical trial evidence against complex public health values.

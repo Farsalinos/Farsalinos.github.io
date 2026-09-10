@@ -1,7 +1,8 @@
 ---
 date: 2026-09-06
 title: Το «Χάος» με τη Νικοτίνη στη Μαλαισία
-translationKey: malaysia-poison
+4|translationKey: malaysia-poison
+tags: ["Μαλαισία", "Κέντρα Δηλητηριάσεων", "Ασφάλεια", "Άτμισμα", "ΜΜΕ"]
 ---
 
 ## Βασικά Σημεία

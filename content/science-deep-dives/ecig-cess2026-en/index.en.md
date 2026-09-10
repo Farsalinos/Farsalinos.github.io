@@ -1,7 +1,8 @@
 ---
 date: 2026-08-26
 title: Nicotine Vapes and Smoking Cessation
-translationKey: ecig-cess2026
+4|translationKey: ecig-cess2026
+tags: ["Smoking Cessation", "E-cigarettes", "Evidence", "Clinical Trials", "Harm Reduction"]
 ---
 
 Ten out of 100 smokers quit with nicotine e-cigarettes. Only six in 100 succeed with patches or gum. That is the headline finding of the [latest Cochrane review](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010216.pub11/full) — the most rigorous form of evidence synthesis in medicine — updated in August 2026 with data current to January 2026.
