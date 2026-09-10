@@ -1,7 +1,8 @@
 ---
 date: 2026-08-25
 title: Vaping and Popcorn Lung
-translationKey: popcorn-lung
+4|translationKey: popcorn-lung
+tags: ["Popcorn Lung", "Safety", "Myth Busting", "E-liquids", "Diacetyl"]
 ---
 
 **\"Popcorn lung\"—bronchiolitis obliterans—is a rare, serious, irreversible lung disease that destroyed the airways of popcorn-factory workers.** That's how the disease got its name; it's not because lungs look like popcorn on an X-ray (a claim that circulates occasionally). The cause was traced to a natural flavoring agent used in factories at the time: **diacetyl**.

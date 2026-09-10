@@ -1,7 +1,8 @@
 ---
 date: 2026-08-26
 title: Dual Use is Not a Failure
-translationKey: dual-use-transition
+4|translationKey: dual-use-transition
+tags: ["Dual Use", "Transition", "Smoking Cessation", "Tips", "Health Benefits"]
 ---
 
 **This pattern often marks the path out of smoking.**

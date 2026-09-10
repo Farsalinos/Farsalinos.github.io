@@ -2,6 +2,7 @@
 date: 2026-08-26
 title: What is the Electronic Cigarette
 translationKey: ecigs
+tags: ["E-cigarettes", "Vaping", "Harm Reduction", "Nicotine", "Technology", "Health"]
 ---
 
 The **electronic cigarette** represents one of the most significant technological innovations of the last 20 years in the field of tobacco control. For a smoker being unable to quit by currently-approved methods and seeking a less harmful alternative, understanding the concept of vaping is the first step toward transitioning to a smoke-free lifestyle. Here are 5 key points you should know.

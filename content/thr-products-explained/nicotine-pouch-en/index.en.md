@@ -1,7 +1,8 @@
 ---
 date: 2026-08-23
 title: Nicotine pouches
-translationKey: nicotine-pouch
+4|translationKey: nicotine-pouch
+tags: ["Nicotine Pouches", "Oral Nicotine", "Harm Reduction", "Nicotine", "Smoking Cessation"]
 ---
 
 **Nicotine pouches** are small pouches—smaller than a tea bag—placed under the upper lip for about **30 to 60 minutes**.

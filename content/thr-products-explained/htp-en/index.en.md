@@ -1,7 +1,8 @@
 ---
 date: 2026-08-24
 title: Heated Tobacco Products
-translationKey: htp
+4|translationKey: htp
+tags: ["Heated Tobacco", "HTP", "Tobacco", "Technology", "Aerosol", "Harm Reduction"]
 ---
 
 **Heated Tobacco Products (HTPs)** are electronically controlled devices that heat a tobacco rod to produce visible aerosol. Their commercial presence expanded rapidly after launching in Italy and Japan in 2014, and in Greece in 2016. Advanced electronic technology enabled the development of these products.

@@ -1,7 +1,8 @@
 ---
 date: 2026-08-27
 title: Nicotine Replacement Therapy (NRT)
-translationKey: nrts
+4|translationKey: nrts
+tags: ["NRT", "Nicotine Replacement", "Pharmaceutical", "Smoking Cessation", "Medical", "Health"]
 ---
 
 **Nicotine Replacement Therapy (NRT)** represents one of the most significant pharmacological advances in public health and tobacco control. For smokers seeking a medically supervised path to a smoke-free life, NRT provides a way to manage withdrawal symptoms without the thousands of toxic chemicals in tobacco smoke. By delivering nicotine in controlled doses, NRT helps individuals break the physiological addiction to cigarettes. Here are five key points on the nature, history, and function of NRT.
