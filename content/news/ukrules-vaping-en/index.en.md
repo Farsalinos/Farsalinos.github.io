@@ -2,6 +2,7 @@
 date: 2026-08-28
 title: UK Tightens the Rules on Vaping and Nicotine Products
 translationKey: ukrules-vaping
+tags: ["UK", "Regulation", "Vaping", "Nicotine Products", "Age of Sale", "Penalties", "Tobacco and Vapes Act", "Policy"]
 ---
 
 The UK government has published new guidance setting out a significant overhaul of the rules governing the sale of vaping and nicotine products across England, Wales, Scotland and Northern Ireland. The changes, issued by the Department of Health and Social Care, take effect on **29 October 2026** and mark one of the most sweeping updates to nicotine retail law in the UK to date.

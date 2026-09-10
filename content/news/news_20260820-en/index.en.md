@@ -2,6 +2,7 @@
 date: 2026-08-28
 title: News-Week, August 20–26, 2026
 translationKey: news_20260820
+tags: ["FDA", "Nicotine Pouches", "Pediatrics", "Cochrane Review", "Vaping", "Smoking Cessation", "Regulation"]
 ---
 
 *Covering news published August 20–26, 2026*

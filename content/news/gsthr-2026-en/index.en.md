@@ -2,6 +2,7 @@
 date: 2026-08-29
 title: The Global State of Tobacco Harm Reduction 2026
 translationKey: gsthr-2026
+tags: ["Harm Reduction", "Global Report", "Tobacco Control", "Vaping", "Nicotine", "Regulation", "Public Health"]
 ---
 
 *A 91-page situation report from Knowledge•Action•Change was recently released,* ***the Global State of Tobacco Harm Reduction (GSTHR) 2026,** covering tobacco harm reduction (THR) developments from January 2025 into early 2026.* This report represents a single synthesis of data on smoking prevalence, safer nicotine product use, regulation, pricing, science and policy across more than 200 countries, and is released approximately every 2 years.

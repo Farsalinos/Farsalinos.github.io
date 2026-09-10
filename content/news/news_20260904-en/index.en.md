@@ -2,6 +2,7 @@
 date: 2026-09-04
 title: News-Week, August 27 - September 04, 2026
 translationKey: news_20260904
+tags: ["FDA", "Regulation", "Taxation", "Nicotine Pouches", "E-cigarettes", "Juul", "US Courts", "EU Policy", "Market Data", "Gallup"]
 ---
 
 **US Courts Diverge, EU Grinds to a Halt: Nicotine Policy Slips Into Open Confrontation**
