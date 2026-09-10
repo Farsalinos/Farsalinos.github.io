@@ -2,6 +2,7 @@
 date: 2026-09-06
 title: The Global Regulatory Paradox of Cannabis Versus Nicotine
 translationKey: nic-freeze
+tags: ["Harm Reduction", "Regulation", "Cannabis", "Nicotine", "Toxicology", "Bioethics", "Public Health"]
 ---
 
 A new [*Harm Reduction Journal* paper](https://link.springer.com/article/10.1186/s12954-026-01517-8) by Konstantinos Farsalinos argues that global drug policy has become internally inconsistent, and the application of double standards is becoming the new “norm”.
