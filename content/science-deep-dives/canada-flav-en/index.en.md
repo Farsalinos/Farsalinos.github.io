@@ -1,6 +1,6 @@
 ---
 date: 2026-09-10
-title: Banning Flavored Vapes Make People Buy More Cigarettes, New Study Finds
+title: Banning Flavored Vapes Can Make People Buy More Cigarettes, New Study Finds
 translationKey: canada-flav
 tags: ["Flavor Bans", "Cigarette Sales", "Substitution Effect", "Canada", "Vaping Policy", "Smoking Increase"]
 ---
