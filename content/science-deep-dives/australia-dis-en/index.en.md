@@ -1,8 +1,8 @@
 ---
 date: 2026-08-30
 title: How Australia has Lost Control of the Nicotine Market?
-4|translationKey: australia-dis
-tags: ["Australia", "Regulation", "Vaping", "Public Health", "Black Market"]
+translationKey: australia-dis
+tags: ["Australia", "Regulation", "Vaping", "Public Health", "Black Market", "Nicotine"]
 ---
 
 **“When Best Practice Falls Short.”** Australia has long been praised as a world leader in tobacco regulation, shaping global standards via plain packaging and strong public‑health initiatives. Yet this image hides a serious strategic misstep. By rigidly following WHO‑endorsed “best practice” measures—namely heavy excise taxes and a medical‑only framework for nicotine vapes—Australia has unintentionally sparked a sovereignty crisis. The government has effectively abandoned its duty to oversee the market, handing control over to criminal networks.
