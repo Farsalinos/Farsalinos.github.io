@@ -5,17 +5,17 @@ translationKey: canada-flav
 tags: ["Flavor Bans", "Cigarette Sales", "Substitution Effect", "Canada", "Vaping Policy", "Smoking Increase"]
 ---
 
-A new economics study looked at what happened when Canadian provinces banned or restricted flavored vape (e-cigarette) sales between 2018 and 2023.
+A new economics study looked at what happened when Canadian provinces banned or restricted flavored vape (e-cigarette) sales between 2018 and 2023. The study covered 9 provinces and 516 province-month observations.
 
 ## Key Takeaways
 
-\- Flavored vape sales collapsed almost completely, as expected.
+- Flavored vape sales collapsed almost completely, as expected.
 
-\- But cigarette sales went up too — about 9.6% higher in provinces with flavor bans, and possibly as much as 21.5% under a different statistical method.
+- But cigarette sales went up — about 9.6% higher in provinces with flavor bans, and possibly as much as 21.5% under a different statistical method.
 
-\- People didn’t quit nicotine when flavors disappeared — many appear to have switched to either unflavored vapes or, more worryingly, ordinary cigarettes.
+- People didn’t quit nicotine when flavors disappeared — many appear to have switched to either unflavored vapes or, more worryingly, ordinary cigarettes.
 
-\- This matches similar findings in the United States, suggesting the pattern isn’t unique to one country’s regulatory culture.
+- This matches similar findings in the United States, suggesting the pattern isn’t unique to one country’s regulatory culture.
 
 ## What the Study Actually Did
 
@@ -37,11 +37,11 @@ But nicotine products don’t exist in a vacuum. If vaping becomes harder or les
 
 {{< figure src="slide4.en.jpg" class="w-[400px]" >}}
 
-**Unflavored and tobacco-flavored vapes went up instead.** In gas stations and convenience stores, sales of unflavored/tobacco-flavored vapes rose about 123% in restricted provinces — suggesting many vapers didn’t quit, they just switched to whatever flavor was still legal.
+**Unflavored and tobacco-flavored vapes went up instead.** In gas stations and convenience stores, sales of unflavored/tobacco-flavored vapes rose about 123% in restricted provinces — suggesting many vapers didn’t quit, they just switched to whatever flavor was still legal. Provinces that also banned menthol vapes (BC, the Maritimes) saw much larger substitution toward tobacco/unflavored vapes (464.8% and 711.1%) than provinces that exempted menthol (Saskatchewan, Ontario), which showed no significant substitution at all.
 
 **Interest in vaping declined too, not just purchases.** Google searches for vape shops and vape-buying terms dropped in the restricted provinces, suggesting people weren’t simply driving to a specialty vape shop to keep buying flavors — the overall interest in vaping fell.
 
-**But cigarette sales rose!!!.** This is the headline finding: cigarette sales increased by about 9.6% in provinces that restricted flavored vapes, compared to provinces that didn’t. Using an alternative statistical model (called “synthetic difference-in-differences”), the estimated increase was even larger — about 21.5%. The effect wasn’t immediate; it built up gradually, becoming clearly noticeable after about 10 months.
+**But cigarette sales rose!!!** This is the headline finding: cigarette sales increased by about 9.6% in provinces that restricted flavored vapes, compared to provinces that didn’t. Using an alternative statistical model (called “synthetic difference-in-differences”), the estimated increase was even larger — about 21.5%. The effect wasn’t immediate; it built up gradually, becoming clearly noticeable after about 10 months.
 
 {{< figure src="slide5.en.jpg" class="w-[400px]" >}}
 
@@ -73,7 +73,7 @@ Canada's experience adds real-world weight to a pattern already seen in the U.S.
 
 **Did flavor bans increase cigarette smoking?** The sales data suggest yes: cigarette sales rose meaningfully in provinces that restricted flavored vapes, compared to provinces that didn’t. Considering that illict sales were not tracked, it cannot be excluded that the increase in smoking consumption is even higher.
 
-**Is flavor bans for non-combustible nicotine products are a bad policy?** While the study doesn’t make that call outright, but the authors argue that if a policy reduces a less-harmful product (vaping) while increasing a far more dangerous one (smoking), it could end up hurting public health overall rather than helping it — a genuine trade-off policymakers should weigh carefully.
+**Are flavor bans for non-combustible nicotine products a bad policy?** While the study doesn’t make that call outright, the authors argue that if a policy reduces a less-harmful product (vaping) while increasing a far more dangerous one (smoking), it could end up hurting public health overall rather than helping it — a genuine trade-off policymakers should weigh carefully.
 
 **What should a policymaker do on the issue of flavor bans in Tobacco Harm Redution?** The authors’ own conclusion is narrower than a simple “ban flavors” or “don’t ban flavors” verdict: they argue that policymakers should proceed cautiously with flavor restrictions, because the harm from an unintended rise in cigarette smoking could outweigh the public health benefit of reduced vaping. In other words, the paper isn’t weighing youth protection against adult health as if one has to lose — it’s pointing out that this particular policy tool appears to have a side effect (more adults smoking) that works against the policy’s own underlying public health goal, which is worth factoring into how the policy is designed or evaluated.
 
