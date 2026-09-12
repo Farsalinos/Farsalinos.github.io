@@ -2,12 +2,12 @@
 date: 2026-09-02
 title: SRNT Recommendations to US Physicians on Nicotine E-Cigarettes
 4|translationKey: srnt-rec2026
-tags: ["SRNT", "Research", "Nicotine", "Policy", "Conference"]
+tags: ["SRNT", "Research", "Nicotine", "Policy", "Conference", "Smoking Cessation", "Guidelines"]
 ---
 
 The international Society for Research on Nicotine and Tobacco (SRNT) recently [published in JAMA](https://jamanetwork.com/journals/jama/article-abstract/2852321) its recommendations for U.S. clinicians on e-cigarettes and smoking cessation. Here, I examine the scientific, clinical, and ethical foundations behind these guidelines. They mark a landmark shift toward active harm reduction for adult smokers in the United States, weighing robust clinical trial evidence against complex public health values.
 
-# Why were new recommendations for e-cigarettes & smoking cessation needed?
+## Why were new recommendations for e-cigarettes & smoking cessation needed?
 
 Combustible tobacco remains the leading cause of preventable death in the U.S., claiming nearly **500,000 lives** each year. Although over 68% of adult smokers wanted to quit in 2022 and more than half attempted to do so, **fewer than 10% succeeded**. This high failure rate highlights the need to broaden the clinical toolkit with alternative strategies.
 
@@ -17,7 +17,7 @@ Current U.S. guidelines — such as the 2018 American College of Cardiology cons
 
 {{< figure src="slide2.en.jpg" class="w-[400px]" >}}
 
-# What is the scientific evidence supporting the efficacy of e-cigarettes for smoking cessation?
+## What is the scientific evidence supporting the efficacy of e-cigarettes for smoking cessation?
 
 The main justification for the SRNT recommendations is **strong scientific evidence** showing that nicotine e-cigarettes are highly effective for smoking cessation. The [Cochrane living systematic review](https://farsalinos.github.io/el/science-deep-dives/ecig-cess2026-el/), updated monthly, provides high-certainty evidence from nine randomized clinical trials (2,703 participants) demonstrating that nicotine e-cigarettes outperform FDA-approved nicotine replacement therapies (NRTs) for quitting smoking.
 
@@ -25,7 +25,7 @@ The main justification for the SRNT recommendations is **strong scientific evide
 
 {{< figure src="slide3.en.jpg" class="w-[400px]" >}}
 
-# How does the safety profile of e-cigarettes compare to combustible tobacco?
+## How does the safety profile of e-cigarettes compare to combustible tobacco?
 
 Safety is a top concern for clinicians. The SRNT addresses this by positioning e-cigarettes on a “continuum of risk.” The scientific consensus is clear: while no nicotine product is entirely harmless, the primary driver of tobacco-related disease is combustion, not nicotine. Burning tobacco produces thousands of harmful carcinogens and toxicants.
 
@@ -33,7 +33,7 @@ Safety is a top concern for clinicians. The SRNT addresses this by positioning e
 
 {{< figure src="slide4.en.jpg" class="w-[400px]" >}}
 
-# Why are public & clinician misperceptions about e-cigarettes so widespread?
+## Why are public & clinician misperceptions about e-cigarettes so widespread?
 
 Despite scientific evidence of reduced harm, public and clinician **perceptions** of e-cigarettes have grown increasingly negative, deterring adult smokers from switching. The SRNT identified three main factors driving these widespread misperceptions.
 
@@ -41,7 +41,7 @@ First, there is **fundamental confusion about nicotine**, with many wrongly attr
 
 {{< figure src="slide5.en.jpg" class="w-[400px]" >}}
 
-# How are e-cigarettes regulated in the U.S.?
+## How are e-cigarettes regulated in the U.S.?
 
 The regulatory landscape in the United States poses a unique challenge for clinicians, which the SRNT guidelines carefully clarify. Unlike traditional NRTs, regulated as medicinal products by the FDA’s CDER under a strict standard requiring individual benefits to exceed risks, e-cigarettes are not
 
@@ -51,7 +51,7 @@ Instead, e-cigarettes are regulated as **consumer tobacco products** by the FDA�
 
 {{< figure src="slide6.en.jpg" class="w-[400px]" >}}
 
-# What is the ethical and philosophical rationale for tobacco harm reduction?
+## What is the ethical and philosophical rationale for tobacco harm reduction?
 
 The e-cigarette debate is fundamentally a values issue about treatment priorities: is the primary goal complete nicotine abstinence, or is it **reducing the risks of smoking-related disease?** If complete abstinence is the sole priority, reluctance to recommend e-cigarettes is understandable. However, the SRNT adopts a **pragmatic harm reduction framework**, acknowledging that quitting smoking is exceptionally difficult and most attempts fail.
 
