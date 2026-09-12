@@ -41,7 +41,7 @@ But nicotine products don’t exist in a vacuum. If vaping becomes harder or les
 
 **Interest in vaping declined too, not just purchases.** Google searches for vape shops and vape-buying terms dropped in the restricted provinces, suggesting people weren’t simply driving to a specialty vape shop to keep buying flavors — the overall interest in vaping fell.
 
-**But cigarette sales rose!!!** This is the headline finding: cigarette sales increased by about 9.6% in provinces that restricted flavored vapes, compared to provinces that didn’t. Using an alternative statistical model (called “synthetic difference-in-differences”), the estimated increase was even larger — about 21.5%. The effect wasn’t immediate; it built up gradually, becoming clearly noticeable after about 10 months.
+**But cigarette sales rose!!!** This is the headline finding: cigarette sales increased by about 9.6% in provinces that restricted flavored vapes, compared to provinces that didn’t. Using an alternative statistical model (called “synthetic difference-in-differences”), the estimated increase was even larger — about 21.5%. The effect wasn’t immediate; it built up gradually, becoming clearly noticeable after about 10 months. The authors estimated the vape-sales decline corresponded to roughly 2.7–10.6 mg less nicotine absorbed per capita per month, while the cigarette-sales increase corresponded to roughly 5.5–11.0 mg more — i.e., the increase in cigarette-sourced nicotine is of similar magnitude to the vape-sourced decline.
 
 {{< figure src="slide5.en.jpg" class="w-[400px]" >}}
 
