@@ -1,7 +1,7 @@
 ---
 date: 2026-08-23
 title: Σακουλάκια νικοτίνης
-4|translationKey: nicotine-pouch
+translationKey: nicotine-pouch
 tags: ["Σακουλάκια Νικοτίνης", "Οραλική Νικοτίνη", "Μείωση της Βλάβης", "Νικοτίνη", "Διακοπή Καπνίσματος"]
 ---
 

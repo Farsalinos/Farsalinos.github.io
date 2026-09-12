@@ -1,7 +1,7 @@
 ---
 date: 2026-08-23
 title: Nicotine pouches
-4|translationKey: nicotine-pouch
+translationKey: nicotine-pouch
 tags: ["Nicotine Pouches", "Oral Nicotine", "Harm Reduction", "Nicotine", "Smoking Cessation"]
 ---
 

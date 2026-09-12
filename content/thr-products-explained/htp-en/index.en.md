@@ -1,7 +1,7 @@
 ---
 date: 2026-08-24
 title: Heated Tobacco Products
-4|translationKey: htp
+translationKey: htp
 tags: ["Heated Tobacco", "HTP", "Tobacco", "Technology", "Aerosol", "Harm Reduction"]
 ---
 

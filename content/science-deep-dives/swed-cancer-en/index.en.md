@@ -1,7 +1,7 @@
 ---
 date: 2026-08-24
 title: The Swedish Miracle
-4|translationKey: swed-cancer
+translationKey: swed-cancer
 tags: ["Sweden", "Cancer Rates", "Snus", "Tobacco Control", "Epidemiology"]
 ---
 

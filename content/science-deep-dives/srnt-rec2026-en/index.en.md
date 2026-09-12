@@ -1,7 +1,7 @@
 ---
 date: 2026-09-02
 title: SRNT Recommendations to US Physicians on Nicotine E-Cigarettes
-4|translationKey: srnt-rec2026
+translationKey: srnt-rec2026
 tags: ["SRNT", "Research", "Nicotine", "Policy", "Conference", "Smoking Cessation", "Guidelines"]
 ---
 

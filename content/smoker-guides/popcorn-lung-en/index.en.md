@@ -1,7 +1,7 @@
 ---
 date: 2026-08-25
 title: Vaping and Popcorn Lung
-4|translationKey: popcorn-lung
+translationKey: popcorn-lung
 tags: ["Popcorn Lung", "Safety", "Myth Busting", "E-liquids", "Diacetyl"]
 ---
 

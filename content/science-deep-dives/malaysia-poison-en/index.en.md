@@ -1,7 +1,7 @@
 ---
 date: 2026-09-06
 title: Malaysia Nicotine Poison Mess
-4|translationKey: malaysia-poison
+translationKey: malaysia-poison
 tags: ["Malaysia", "Poison Centers", "Safety", "Vaping", "Media Coverage"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: 2026-08-26
 title: Dual Use is Not a Failure
-4|translationKey: dual-use-transition
+translationKey: dual-use-transition
 tags: ["Dual Use", "Transition", "Smoking Cessation", "Tips", "Health Benefits"]
 ---
 

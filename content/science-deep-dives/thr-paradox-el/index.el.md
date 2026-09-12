@@ -1,7 +1,7 @@
 ---
 date: 2026-08-24
 title: Το Παγκόσμιο Παράδοξο
-4|translationKey: thr-paradox
+translationKey: thr-paradox
 tags: ["Μείωση της Βλάβης", "Παράδοξο", "Νομοθεσία", "Βιομηχανία Καπνού", "Δημόσια Υγεία"]
 ---
 

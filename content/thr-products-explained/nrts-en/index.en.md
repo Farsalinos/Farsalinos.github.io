@@ -1,7 +1,7 @@
 ---
 date: 2026-08-27
 title: Nicotine Replacement Therapy (NRT)
-4|translationKey: nrts
+translationKey: nrts
 tags: ["NRT", "Nicotine Replacement", "Pharmaceutical", "Smoking Cessation", "Medical", "Health"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: 2026-08-24
 title: The Global Paradox
-4|translationKey: thr-paradox
+translationKey: thr-paradox
 tags: ["Harm Reduction", "Paradox", "Regulation", "Tobacco Industry", "Public Health"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: 2026-08-26
 title: Nicotine Vapes and Smoking Cessation
-4|translationKey: ecig-cess2026
+translationKey: ecig-cess2026
 tags: ["Smoking Cessation", "E-cigarettes", "Evidence", "Clinical Trials", "Harm Reduction"]
 ---
 

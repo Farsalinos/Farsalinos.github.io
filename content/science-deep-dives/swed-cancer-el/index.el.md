@@ -1,7 +1,7 @@
 ---
 date: 2026-08-24
 title: Το Θαύμα της Σουηδίας
-4|translationKey: swed-cancer
+translationKey: swed-cancer
 tags: ["Σουηδία", "Ποσοστά Καρκίνου", "Snus", "Έλεγχος Καπνού", "Επιδημιολογία"]
 ---
 

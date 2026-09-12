@@ -1,7 +1,7 @@
 ---
 date: 2026-08-26
 title: Η Διπλή Χρήση Δεν είναι Αποτυχία
-4|translationKey: dual-use-transition
+translationKey: dual-use-transition
 tags: ["Διπλή Χρήση", "Μετάβαση", "Διακοπή Καπνίσματος", "Συμβουλές", "Οφέλη για την Υγεία"]
 ---
 

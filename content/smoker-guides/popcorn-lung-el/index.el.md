@@ -1,7 +1,7 @@
 ---
 date: 2026-08-25
 title: Άτμισμα και Νόσος Πόπκορν
-4|translationKey: popcorn-lung
+translationKey: popcorn-lung
 tags: ["Νόσος Πόπκορν", "Ασφάλεια", "Κατάρριψη Μύθων", "Υγρά Αναπλήρωσης", "Διακετύλιο"]
 ---
 
