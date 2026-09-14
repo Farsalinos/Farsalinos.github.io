@@ -1,13 +1,13 @@
 ---
 date: 2026-09-12
-title: Australia's Tobacco Tax Experiment Has Failed. It's Time to Admit It.
+title: Australia's Tobacco Tax Experiment Has Failed. Europe is at risk of a similar failure.
 translationKey: australia-illicit-op
 tags: ["Australia", "Tobacco Tax", "Illicit Trade", "Public Health", "Harm Reduction", "Excise", "Policy Failure", "Organized Crime", "Revenue Collapse"]
 ---
 
 Australia has spent more than a decade taxing cigarettes on the theory that pain at the checkout would eventually get people to quit. It hasn't. What it has actually built, according to the **federal opposition’s June 2026 report**, is one of the most lucrative black markets in the country's history, plus a public health establishment that still can't bring itself to call the policy a failure.
 
-**Bottom line up front:** Australia's decade-long strategy of taxing cigarettes toward abstinence has not reduced nicotine consumption — it has handed 60–80% of the market to organized crime, according to the figures in the Coalition Taskforce's June 2026 report, while tobacco excise revenue collapses from its \$16 billion peak toward an expected \$2 billion by 2029–30. The policy has failed on every metric it was designed to move, and Australia's public health peak bodies are still defending it.
+**Bottom line up front:** Australia's decade-long strategy of taxing cigarettes toward abstinence has not reduced nicotine consumption — it has handed 60–80% of the market to organized crime, according to the figures in the Coalition Taskforce's June 2026 report, while tobacco excise revenue collapses from its $16 billion peak toward an expected $2 billion by 2029–30. The entire market for reduced-risk nicotine products is in the hands of the black market. The policy has failed on every metric it was designed to move, and Australia's public health peak bodies are still defending it. Europe, through the new legislation it is preparing — based on the excessive taxation of everything — risks making the same mistake. With the same disastrous results.
 
 ## The numbers are damning
 
