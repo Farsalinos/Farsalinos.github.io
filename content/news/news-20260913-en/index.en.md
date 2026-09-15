@@ -56,7 +56,7 @@ The EU's long-running overhaul of its Tobacco Excise Directive (TED) has hit a f
 
 **Source:** [<u>Tobacco Insider — Tobacco Regulation: European Union</u>](https://tobaccoinsider.com/tobacco-regulation-european-union/)
 
-## EU Nicotine Pouch Tax Debate Remains Deadlocked Between Rival Blocs
+## EU Nicotine Pouch Tax Debate Remains Deadlocked Between Rival Blocks
 
 The EU's Tobacco Taxation Directive revision remains in stalemate as member states split into two camps over how to tax novel nicotine products. A hard-line public-health bloc led by Ireland, France and the Netherlands wants high, harmonized minimum excise rates across all nicotine delivery systems to deter youth uptake. A harm-reduction coalition led by Sweden — where nicotine pouches and snus are widely used by adults — argues that non-combustible products carry markedly lower health risks and should be taxed far more lightly to keep incentivizing switching, pointing to Sweden's record-low smoking rate. Because EU tax decisions require unanimous approval from all 27 member states, Sweden's refusal to accept heavy pouch excise effectively blocks the directive, and a near-term compromise looks unlikely.
 
