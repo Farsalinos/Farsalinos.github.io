@@ -16,13 +16,13 @@ The U.S. Department of Health and Human Services has appointed Bret Koplow as pe
 
 **Source:** [<u>Tobacco Insider — US FDA: Tobacco News</u>](https://tobaccoinsider.com/us-fda-tobacco-news/)
 
-## R.J. Reynolds (BAT) Expands Vuse Pro Flavor Lineup
+## More non-tobacco flavors in e-cigarettes in the US
 
 R.J. Reynolds Tobacco Company, BAT's U.S. subsidiary, has begun a phased rollout of four new non-tobacco Vuse Pro pod flavors — Fresh Mint, Peach, Berry and Watermelon — at 5.0% nicotine strength. The launch follows updated FDA enforcement priorities that concentrate federal resources on unauthorized disposable vapes, giving BAT room to expand its authorized portfolio and compete with illicit products. Public health groups have criticized the flavored, high-nicotine lineup over youth-appeal concerns.
 
 **Source:** [<u>Tobacco Insider — USA: Vapes</u>](https://tobaccoinsider.com/usa-vapes/)
 
-## Altria/NJOY Lose Constitutional Challenge to ITC Authority in JUUL Patent Dispute
+## Patent wars in the US for e-cigarettes
 
 A U.S. federal court has rejected a constitutional challenge brought by Altria Group and NJOY against the International Trade Commission's (ITC) authority to hear JUUL Labs' patent dispute and import-ban request targeting NJOY Daily products. Altria had argued the administrative forum violated constitutional protections. Despite losing the venue challenge, NJOY still holds a substantive advantage: an ITC administrative law judge had previously found JUUL's patent invalid, with a final determination now pending before the full Commission.
 
@@ -34,7 +34,7 @@ Denver has joined a growing wave of U.S. municipalities suing major tobacco manu
 
 **Source:** [<u>Tobacco Insider — Tobacco Lawsuits: USA</u>](https://tobaccoinsider.com/tobacco-lawsuits-usa/)
 
-## PMI Expands and Restructures the ZYN Lineup in the US
+## Expansion of nicotine pouch products in the US
 
 Philip Morris International's U.S. business is increasing core ZYN dry can sizes from 15 to 20 pouches from Q4 2026, and expanding the ZYN dry range to 1.5 mg and 8 mg strengths. PMI is also launching ZYN ULTRA, a higher-moisture, slim pouch line at 9 mg and 11 mg strengths with an expanded flavor selection and new flavor descriptors.
 
