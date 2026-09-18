@@ -56,4 +56,19 @@ Japan is experiencing a historical transformation in public health. Had they not
 {{< figure src="slide10.en.jpg" class="w-[400px]" >}}
 
 
+## Frequently Asked Questions
+
+** How much did cigarette smoking drop in Japan since heated tobacco products became available?** Cigarette smoking fell from 20.7% to 12.3% — a 40% relative decline — between 2017 and 2025, according to the Nationwide General Population Survey on Drug Use (Mizuno et al., 2026).
+
+**Did heated tobacco product use increase at the same time?** Yes. HTP use rose from 5.3% to 11.7% over the same eight-year period, mirroring the cigarette decline.
+
+**Is dual use of cigarettes and HTPs a problem in Japan?** Dual use increased from 2.5% to 4.1%, but this is expected and does not appear to be a major health concern. Since HTPs deliver nicotine without combustion, dual users aren't adding risk compared to exclusive smoking — they're either reducing harm (if they reduce their smoking consumption substantially) or staying neutral.
+
+**Has overall tobacco use decreased in Japan over the last 8 years?** Only slightly. Total tobacco use dropped from 24.3% to 21.0%, a 3.3-point decrease. This confirms the cigarette decline was almost entirely substitution, not abstinence.
+
+**Can biomarkers prove that switching to HTPs reduces harm?** Biomarkers only provide indirect proof and can be used to make reasonable assumptions. Biomarkers of exposure (like tobacco-specific nitrosamines) drop sharply within days of switching, but biomarkers of potential harm (inflammation, lipids) take much longer to change — and may never fully revert to never-smoker levels. We expect benefit, but population-level confirmation through epidemiological studies with clinical end-points is still pending.
+
+**Why doesn't Japan allow nicotine e-cigarettes?** Japan banned nicotine-containing e-cigarettes in 2016, classifying them as medicinal products requiring approval. This likely slowed the overall tobacco reduction, as vaping has established smoking cessation efficacy and could have served as an additional tool to help Japanese smokers quit.
+
+
 *Sources: Mizuno S, Inoura S, Matsumoto T, Shimane T. "Nationwide trends in cigarette, heated tobacco product, e-cigarette, and multiple-product use in Japan 2017–2025." Psychiatry Clin Neurosci Rep. 2026;5:e70409.
