@@ -5,7 +5,7 @@ translationKey: taiwan-cigarettes-legal-vapes-banned
 tags: ["Taiwan", "tobacco harm reduction", "regulation", "vaping ban", "nicotine pouches", "heated tobacco", "cigarette prices"]
 ---
 
-# Taiwan: You Are Welcomed to Smoke, You Are Punished for Vaping
+It is fascinating to observe the lengths to which the "moral panic" regarding harm reduction strategies can go. In the case of Taiwan, at the highest political level, this appears to have resulted in the most extreme reaction: encouraging smoking, albeit indirectly, over less harmful, non-combustible nicotine products.
 
 **Bottom line:** Walk into any 7-Eleven in Taipei and you can buy a pack of cigarettes, the deadliest nicotine product, for about US\$4.40 (€3.79), no questions asked beyond your age. They are consumed by ~13% of the population. Walk out with a vape in your pocket, and you are now a criminal. Under an amendment currently moving through Taiwan’s Legislative Yuan, simply possessing an e-cigarette will carry a fine of up to NT\$100,000 — roughly **US\$3,160 / €2,724** — plus confiscation. Import a handful of devices as a traveler, and the fine climbs to **US\$31,600 / €27,240**. Manufacture or sell one, and you’re looking at seven years in prison. This is not harm reduction policy. It is harm-maximization policy, it is a moral hierarchy dressed up as public health policy. It punishes smokers who switched, and sends a clear message: the deadliest nicotine product is the only permitted one. And it is about to make Taiwan’s drug problem worse, not better.
 
