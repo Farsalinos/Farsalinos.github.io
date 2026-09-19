@@ -12,6 +12,7 @@ tags: ["Malaysia", "Poison Centers", "Safety", "Vaping", "Media Coverage"]
 - Nicotine e-liquid is now a Group C poison — only pharmacists or doctors can dispense it. Analysts call this a de facto ban.
 - A separate law, the Control of Smoking Products for Public Health Act 2024, still regulates vape sales. Two laws now pull in opposite directions.
 - Over RM354 million (roughly \$88.5 million) in excise duties collected since 2023 sit at the center of a growing refund dispute.
+- This environment creates serious misperceptions about the relative risk of nicotine vs. smoking, puts at risk the health of smokers and former smokers, and creates the ground for an uncontrolled illict market that will target vulnerable populations and youth.
 
 {{< figure src="slide2.en.jpg" class="w-[400px]" >}}
 
@@ -96,6 +97,12 @@ Public health researchers who support tobacco harm reduction argue that reclassi
 The pattern suggests prohibition-style restrictions shift consumption underground rather than end it, often with added costs: lost tax revenue, unregulated (and potentially more dangerous) product quality, and enforcement resources diverted toward organized illicit supply chains. Whether Malaysia’s current status — a de facto ban driven by a court ruling on procedural grounds — produces the same outcome is a key open question as the government decides its next move.
 
 {{< figure src="slide10.en.jpg" class="w-[400px]" >}}
+
+## In detail, what are the implications for THR, smokers and former smokers?
+
+From a tobacco harm reduction standpoint, this ruling feels like a step backward in the worst possible way. Adult smokers who might have switched to vaping to lower their risk now face a legal pathway that requires a pharmacist or doctor, while buying a pack of cigarettes remains as easy as walking into a corner shop. The irony is hard to miss: tobacco, the product responsible for the overwhelming share of smoking-related harm, stays exempt from the Poisons List. Meanwhile, a lower-risk alternative is pushed out of reach. Former smokers who quit by switching aren't safe either; if their replacement product is harder to access, moves undeground and becomes more expensive through back channels, or is wrapped in legal uncertainty, the risk of returning to cigarettes is real. Restricting the substitute without restricting the combustible product doesn't protect anyone — it just tilts the playing field back toward the more dangerous option. There is an even bigger irony: it is public health groups that initiated and created these risks for people.
+
+Υπάρχει επίσης η μαύρη αγορά — και δεν πρόκειται για υποθετικό σενάριο. Όταν χώρες όπως η Ινδία και η Αυστραλία περιόρισαν ή απαγόρευσαν το άτμισμα με νικοτίνη, η ζήτηση δεν εξαφανίστηκε· απλώς πέρασε στην παρανομία. Προϊόντα χωρίς ρυθμιστικό έλεγχο κάλυψαν το κενό, το κόστος επιβολής του νόμου εκτινάχθηκε και το οργανωμένο έγκλημα εισχώρησε στον χώρο. Η Μαλαισία δεν χρειάζεται να επαναλάβει αυτό το λάθος. Μια de facto απαγόρευση που επιβάλλεται δικαστικά ενέχει τον κίνδυνο να δημιουργήσει ακριβώς αυτό το κενό — ένα κενό που θα καλυφθεί από προϊόντα άγνωστης προέλευσης και ποιότητας, τα οποία πωλούνται χωρίς ελέγχους ηλικίας και βρίσκονται εκτός κυβερνητικού ελέγχου. Σε αυτά προστίθεται και το φαινόμενο της παραπληροφόρησης: όταν η νικοτίνη χαρακτηρίζεται ως δηλητήριο —χαρακτηρισμός που δεν αποδίδεται στα τσιγάρα— το κοινό λαμβάνει το λανθασμένο μήνυμα ότι το άτμισμα είναι πιο επικίνδυνο από το κάπνισμα και ότι η νικοτίνη αποτελεί την κύρια αιτία των ασθενειών που σχετίζονται με το κάπνισμα. Το κόστος για τη δημόσια υγεία προκύπτει τόσο από τη μαύρη αγορά όσο και από τις λανθασμένες αντιλήψεις: οι πολίτες λαμβάνουν το λάθος μήνυμα —ότι το άτμισμα είναι πιο επικίνδυνο από το κάπνισμα— γεγονός που απομακρύνει τους καπνιστές από μια επιλογή χαμηλότερου κινδύνου και τους ωθεί πίσω στο υφιστάμενο καθεστώς.
 
 ## FAQ
 
