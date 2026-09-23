@@ -2,6 +2,7 @@
 date: 2026-09-22
 title: Vaping for smokers with COPD
 translationKey: ecig-copd
+tags: ["COPD", "Vaping", "Harm Reduction", "Smoking Cessation", "Research", "Public Health"]
 ---
 
 ## The Study at a Glance
