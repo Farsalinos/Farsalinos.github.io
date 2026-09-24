@@ -1,7 +1,7 @@
 ---
 date: 2026-09-20
 title: "Tobacco Harm Reduction Weekly Roundup: September 14–20, 2026"
-tags: ["FDA", "CTP", "Regulation", "Vaping", "Nicotine Pouches", "Heated Tobacco", "Harm Reduction", "Public Health", "Asia-Pacific", "Europe", "Malaysia", "Taiwan", "South Korea", "Second-hand Smoke", "Tobacco Policy", "Non-combustible Products"]
+tags: ["FDA", "CTP", "Regulation", "Vaping", "Nicotine Pouches", "Heated Tobacco", "Harm Reduction", "Public Health"]
 translationKey: news_20260920
 ---
 
