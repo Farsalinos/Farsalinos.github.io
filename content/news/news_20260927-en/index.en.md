@@ -2,6 +2,7 @@
 date: 2026-09-26
 title: "Tobacco Harm Reduction Weekly Roundup: September 21–27, 2026"
 translationKey: news_20260927
+tags: ["FDA", "PMTA", "Regulation", "Vaping", "Nicotine Pouches", "Heated Tobacco", "Harm Reduction", "Public Health", "Smoking Cessation", "EU Policy", "India"]
 ---
 
 ## The big picture
