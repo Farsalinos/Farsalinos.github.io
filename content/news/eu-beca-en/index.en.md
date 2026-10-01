@@ -2,6 +2,7 @@
 date: 2026-09-30
 title: "The Prevention Paradox: Europe's Beating Cancer Plan Targets the Products That Replace Cigarettes"
 translationKey: eu-beca
+tags: ["Harm Reduction", "Regulation", "Nicotine Pouches", "European Union", "BECA", "Public Health", "Sweden"]
 ---
 
 ## Bottom line
@@ -132,27 +133,27 @@ A plenary vote is expected between October and November 2026 ([Eunews](https://w
 
 ## Frequently asked questions
 
-### Are nicotine pouches absolutely safe?
+**Are nicotine pouches absolutely safe?
 
 Nicotine pouches are not risk-free, but analyses place their toxicant profile near NRT and far below cigarette smoke ([Farsalinos, 2026](https://pubmed.ncbi.nlm.nih.gov/41686395/)).
 
-### Did Sweden become smoke-free only because of snus?
+**Did Sweden become smoke-free only because of snus?
 
 Snus and pouches were central, supported by low taxation and wide availability, but Sweden also had broad smoke-free-environment policies ([Folkhälsomyndigheten review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11659985/)).
 
-### When will the European Parliament vote on the cancer plan report?
+**When will the European Parliament vote on the cancer plan report?
 
 A plenary vote is expected between October and November 2026 ([Eunews](https://www.eunews.it/en/2026/09/28/cifood-alcohol-tobacco-ep-crackdown/)).
 
-### Do nicotine pouches help smokers quit?
+**Do nicotine pouches help smokers quit?
 
 Trials reviewed in 2025 suggest pouches may reduce cigarette consumption, with effects similar to snus or nicotine gum, though the evidence base is still small ([Heshmati et al.](https://onlinelibrary.wiley.com/doi/10.1111/add.70193)). Most of the evidence is coming from population studies in Sweden, that show snus had a substantial effect in reducing smoking in the country.
 
-### Do flavour bans reduce youth nicotine use?
+**Do flavour bans reduce youth nicotine use?
 
 Not reliably. Denmark’s 2022 flavour ban was followed by a rise in use among 15–29-year-olds from 7% to 12% by 2024, with most users still reporting fruit flavours ([Vejpkollen, reporting the Danish Health Authority survey](https://www.vejpkollen.se/en/2025/04/bruket-bland-unga-tredubblades-efter-smakforbud-i-danmark/)).
 
-### Do flavours help smokers quit?
+**Do flavours help smokers quit?
 
 In studies of vaping products, yes, on average, but the evidence is observational and mixed, and there is no equivalent study for pouches ([Systematic review, 2023](https://www.sciencedirect.com/science/article/pii/S2772724623000136); [Friedman & Xu, 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7275248/)).
 
