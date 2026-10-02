@@ -57,6 +57,12 @@ This isn’t a minor drafting choice. It is a strategic error that ignores the o
 
 The Swedish public health agency notes that snus and pouches are taxed far lower than tobacco, making them affordable for cost-sensitive groups ([Folkhälsomyndigheten review, PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11659985/)). And that would work for the whole EU: an analysis of 2002 WHO data estimated 54% fewer male lung cancer deaths in the EU if every country matched Swedish men ([Rodu & Cole, Scand J Public Health](https://pubmed.ncbi.nlm.nih.gov/19535408/)).
 
+## What counts as success? The measurement problem
+
+Depending on what is counted, Sweden’s success can look like failure. The WHO “smoke-free” benchmark counts daily smokers. Eurostat’s grouping of tobacco, e-cigarettes, and nicotine pouches puts Sweden at 23.9% daily use, the second highest in the EU ([Euronews](https://www.euronews.com/my-europe/2026/09/01/cigarettes-are-on-the-decline-in-the-eu-but-how-popular-are-smoking-and-vaping-still)). But such an approach makes no sense, and it only serves to hide the [unique success of Sweden](https://farsalinos.github.io/en/science-deep-dives/swed-cancer-en/). Public health is about preventing disease and death, not about judging behaviors from a “moralistic” perspective.
+
+{{< figure src="slide10-1.en.jpg" class="w-[400px]" >}}
+
 ## What gets lost in the framing
 
 Regarding alcohol, the report’s framing is more nuanced: clearly visible health information on drinks, no blanket ban, and a zero-consumption target only for minors. MEP Tilly Metz explicitly rejected prohibition: “I am not in favour of a ban on alcohol. That is not the solution.” The text treats alcohol as a risk to manage, not eliminate.
@@ -103,12 +109,6 @@ The same Danish data show youth smoking at record lows, so the ban’s effect on
 Not yet at EU level. The committee text asks for flavor restrictions, plain packaging, and higher taxes rather than an outright prohibition, and the Commission is expected to propose revisions to the Tobacco Products Directive by the end of 2026 ([EU Reporter](https://www.eureporter.co/health/2026/04/07/brussels-prepares-sweeping-reset-of-nicotine-policy-as-battle-lines-harden/)). Member states are split: France, Belgium, and the Netherlands push for tougher measures, while Italy and Greece are more cautious. The Commission’s tax proposal would also extend harmonized excise duties to pouches. France has already adopted a national pouch ban, threatening with fines and imprisonment for possession. An unprecedented situation for a western country, member of the EU.
 
 Flavor bans and strength caps can narrow a market without formally prohibiting it, so the practical question is whether adult smokers will still find a pouch they will switch to.
-
-## What counts as success? The measurement problem
-
-Depending on what is counted, Sweden’s success can look like failure. The WHO “smoke-free” benchmark counts daily smokers. Eurostat’s grouping of tobacco, e-cigarettes, and nicotine pouches puts Sweden at 23.9% daily use, the second highest in the EU ([Euronews](https://www.euronews.com/my-europe/2026/09/01/cigarettes-are-on-the-decline-in-the-eu-but-how-popular-are-smoking-and-vaping-still)). But such an approach makes no sense, and it only serves to hide the unique success of Sweden. Public health is about preventing disease and death, not about judging behaviors from a “moralistic” perspective.
-
-{{< figure src="slide10-1.en.jpg" class="w-[400px]" >}}
 
 ## What would proportionate regulation look like?
 
