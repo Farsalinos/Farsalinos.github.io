@@ -28,7 +28,7 @@ disableTextInHeader = false
 defaultBackgroundImage = "images/v3/site-background.svg" # used as default for background images
 backgroundCanvas = true # render defaultBackgroundImage as a fixed backdrop on every page
 defaultFeaturedImage = "/img/featured.svg" # used as default for featured images in all articles
-defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
+defaultSocialImage = "/images/social-default.jpg" # used as default for social media sharing (Open Graph and Twitter)
 hotlinkFeatureImage = false
 # Thumbnail aspect ratio as a number (e.g., "1.5", "1.0", "1.777")
 # thumbnailAspectRatio = "1.5"
