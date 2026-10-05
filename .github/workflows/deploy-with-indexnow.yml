@@ -1,0 +1,68 @@
+name: Deploy + IndexNow
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+env:
+  HUGO_VERSION: 0.165.0
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Hugo
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb
+          sudo dpkg -i ${{ runner.temp }}/hugo.deb
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          submodules: false
+
+      - name: Build with Hugo
+        run: hugo --gc --minify
+        env:
+          HUGO_ENVIRONMENT: production
+          HUGO_ENABLEGITINFO: true
+
+      - name: Extract new/changed URLs
+        id: urls
+        run: |
+          # Get all URLs from sitemap
+          python3 scripts/extract_urls.py > urls.txt
+          echo "urls<<EOF" >> $GITHUB_OUTPUT
+          cat urls.txt >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Submit to IndexNow + Bing API
+        if: env.INDEXNOW_KEY != '' || env.BING_API_KEY != ''
+        run: |
+          python3 scripts/submit_to_bing.py
+        env:
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+          BING_API_KEY: ${{ secrets.BING_API_KEY }}
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
