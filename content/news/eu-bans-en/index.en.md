@@ -2,7 +2,7 @@
 date: 2026-10-07
 title: Eight Ministers Want to Freeze Europe's Smoke-Free Future
 translationKey: eu-bans
-tags: ["Regulation", "Harm Reduction", "Vaping", "Nicotine Pouches", "Snus", "Tobacco Products Directive", "Public Health", "Smoking Cessation", "Flavors", "Illicit Trade", "Youth Protection", "Sweden", "Australia", "Denmark", "WHO FCTC"]
+tags: ["Regulation", "Tobacco Harm Reduction", "Tobacco Products Directive", "Public Health", "Smoke-Free Europe", "Flavors", "Illicit Trade", "Youth Protection", "Europe", "Nicotine"]
 ---
 
 On 6 October 2026, health ministers from the Netherlands, Belgium, Finland, France, Hungary, Latvia, Slovenia, and Spain sent [a joint letter](https://open.overheid.nl/overheid/openbaarmakingen/api/v0/attachment/5bc71a8f-7dc4-429b-95e6-1f5fd06e96d2) to Commissioner Olivér Várhelyi. They framed it as a wish list for revising the Tobacco Products Directive (TPD) and the Tobacco Advertising Directive (TAD), claiming it paves the way for a smoke-free generation by 2040. In reality, it is the exact opposite. If adopted as written, this letter would fail to deliver a smoke-free Europe. Instead, it would shield cigarettes from competition, hand a ready-made market to criminals, and leave millions of smokers with a single legal nicotine product: the one that kills them. Everyone who cares about public health, whether they are authors of that letter or this post, shares the same ultimate goal: cutting smoking-related death and disease. The disagreement lies solely in the means. The letter's proposed measures have already been tried, in whole or in part, in other countries. They failed, and the evidence is in plain sight.
