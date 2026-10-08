@@ -6,6 +6,12 @@ buildDrafts = false
 enableEmoji = true
 pagination.pagerSize = 10
 
+[outputs]
+  home = ["html", "json"]
+  section = ["html", "json"]
+  taxonomy = ["html", "json"]
+  term = ["html", "json"]
+
 [module]
   [[module.imports]]
     path = "github.com/nunocoracao/blowfish/v3"

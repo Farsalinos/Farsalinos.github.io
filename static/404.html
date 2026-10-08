@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0; url=/en/">
+  <title>404 - Page Not Found</title>
+  <link rel="canonical" href="https://farsalinos.github.io/en/">
+  <meta name="robots" content="noindex">
+  <style>
+    body { font-family: system-ui, sans-serif; text-align: center; padding: 4rem; max-width: 600px; margin: 0 auto; }
+    h1 { font-size: 6rem; color: #1a1a2e; margin: 0 0 1rem; }
+    p { font-size: 1.25rem; color: #4a4a4a; margin: 0 0 2rem; }
+    a { display: inline-block; padding: 0.75rem 1.5rem; background: #2563eb; color: white; text-decoration: none; border-radius: 0.5rem; font-weight: 600; }
+    a:hover { background: #1d4ed8; }
+  </style>
+</head>
+<body>
+  <h1>404</h1>
+  <p>Page not found. Redirecting to homepage...</p>
+  <a href="/en/">Go to Homepage</a>
+  <script>
+    // Redirect based on browser language
+    const lang = navigator.language || navigator.userLanguage;
+    if (lang.startsWith('el')) {
+      window.location.href = '/el/';
+    } else {
+      window.location.href = '/en/';
+    }
+  </script>
+</body>
+</html>
