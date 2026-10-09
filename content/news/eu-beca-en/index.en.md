@@ -3,6 +3,7 @@ date: 2026-09-30
 title: "The Prevention Paradox: Europe's Beating Cancer Plan Targets the Products That Replace Cigarettes"
 translationKey: eu-beca
 tags: ["Harm Reduction", "Regulation", "Nicotine Pouches", "European Union", "BECA", "Public Health", "Sweden"]
+images: ["feature.en.jpg"]
 ---
 
 ## Bottom line
