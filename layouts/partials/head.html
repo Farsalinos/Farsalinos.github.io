@@ -70,37 +70,35 @@
   {{ end }}
 
   {{/* Social */}}
-    {{ template "_internal/opengraph.html" . }}
-    {{ template "_internal/twitter_cards.html" . }}
-    {{/* Use defaultSocialImage ONLY if no og:image was already set */}}
-    {{ $hasOgImage := false }}
-    {{ $hasTwitterImage := false }}
-    {{/* Check if internal templates already set og:image/twitter:image via page params */}}
+    {{/* Check if page has images BEFORE internal templates run */}}
+    {{ $hasArticleImage := false }}
     {{ with .Params.images }}
       {{ if gt (len .) 0 }}
-        {{ $hasOgImage = true }}
-        {{ $hasTwitterImage = true }}
+        {{ $hasArticleImage = true }}
       {{ end }}
     {{ end }}
     {{ with .Params.featured_image }}
-      {{ $hasOgImage = true }}
-      {{ $hasTwitterImage = true }}
+      {{ $hasArticleImage = true }}
     {{ end }}
-    {{/* Also check for page bundle images */}}
-        {{ if not $hasOgImage }}
-          {{ $pageImages := .Resources.ByType "image" }}
-          {{ $featureImage := "" }}
-          {{ range slice "*featured*" "*cover*" "*thumbnail*" }}
-            {{ if not $hasOgImage }}
-              {{ $featureImage = $pageImages.GetMatch . }}
-              {{ if $featureImage }}
-                {{ $hasOgImage = true }}
-                {{ $hasTwitterImage = true }}
-              {{ end }}
-            {{ end }}
+    {{/* Also check page bundle images */}}
+    {{ if not $hasArticleImage }}
+      {{ $pageImages := .Resources.ByType "image" }}
+      {{ $featureImage := "" }}
+      {{ range slice "*featured*" "*cover*" "*thumbnail*" }}
+        {{ if not $hasArticleImage }}
+          {{ $featureImage = $pageImages.GetMatch . }}
+          {{ if $featureImage }}
+            {{ $hasArticleImage = true }}
           {{ end }}
         {{ end }}
-    {{ if not $hasOgImage }}
+      {{ end }}
+    {{ end }}
+
+    {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
+
+    {{/* Use defaultSocialImage ONLY if no article image exists */}}
+    {{ if not $hasArticleImage }}
       {{ with .Site.Params.defaultSocialImage }}
         {{ $socialImage := "" }}
         {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
