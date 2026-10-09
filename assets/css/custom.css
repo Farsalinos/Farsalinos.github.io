@@ -25,6 +25,10 @@ article footer.max-w-prose {
   .main-menu {
     font-size: 0.75rem;
   }
+  /* Mobile dropdown menu items - reduce from text-2xl (1.5rem) */
+  #mobile-menu-dialog .text-2xl {
+    font-size: 1.125rem !important; /* text-xl */
+  }
 }
 @media (min-width: 1280px) {
   .main-menu {
