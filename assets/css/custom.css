@@ -21,6 +21,11 @@ article footer.max-w-prose {
 .main-menu {
   font-size: 0.875rem;
 }
+@media (max-width: 767px) {
+  .main-menu {
+    font-size: 0.75rem;
+  }
+}
 @media (min-width: 1280px) {
   .main-menu {
     font-size: 0.9375rem;
