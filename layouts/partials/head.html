@@ -70,30 +70,50 @@
   {{ end }}
 
   {{/* Social */}}
-  {{ template "_internal/opengraph.html" . }}
-  {{ template "_internal/twitter_cards.html" . }}
-  {{/* Use defaultSocialImage if feature image does not exist */}}
-  {{ $featureImage := "" }}
-  {{ $pageImages := .Resources.ByType "image" }}
-  {{ range slice "*featured*" "*cover*" "*thumbnail*" }}
-    {{ if not $featureImage }}
-      {{ $featureImage = $pageImages.GetMatch . }}
-    {{ end }}
-  {{ end }}
-  {{ if not $featureImage }}
-    {{ with .Site.Params.defaultSocialImage }}
-      {{ $socialImage := "" }}
-      {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
-        {{ $socialImage = resources.GetRemote . }}
-      {{ else }}
-        {{ $socialImage = resources.Get . }}
-      {{ end }}
-      {{ with $socialImage }}
-        <meta name="twitter:image" content="{{ .RelPermalink | absURL }}">
-        <meta property="og:image" content="{{ .RelPermalink | absURL }}">
+    {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
+    {{/* Use defaultSocialImage ONLY if no og:image was already set */}}
+    {{ $hasOgImage := false }}
+    {{ $hasTwitterImage := false }}
+    {{/* Check if internal templates already set og:image/twitter:image via page params */}}
+    {{ with .Params.images }}
+      {{ if gt (len .) 0 }}
+        {{ $hasOgImage = true }}
+        {{ $hasTwitterImage = true }}
       {{ end }}
     {{ end }}
-  {{ end }}
+    {{ with .Params.featured_image }}
+      {{ $hasOgImage = true }}
+      {{ $hasTwitterImage = true }}
+    {{ end }}
+    {{/* Also check for page bundle images */}}
+        {{ if not $hasOgImage }}
+          {{ $pageImages := .Resources.ByType "image" }}
+          {{ $featureImage := "" }}
+          {{ range slice "*featured*" "*cover*" "*thumbnail*" }}
+            {{ if not $hasOgImage }}
+              {{ $featureImage = $pageImages.GetMatch . }}
+              {{ if $featureImage }}
+                {{ $hasOgImage = true }}
+                {{ $hasTwitterImage = true }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+    {{ if not $hasOgImage }}
+      {{ with .Site.Params.defaultSocialImage }}
+        {{ $socialImage := "" }}
+        {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+          {{ $socialImage = resources.GetRemote . }}
+        {{ else }}
+          {{ $socialImage = resources.Get . }}
+        {{ end }}
+        {{ with $socialImage }}
+          <meta name="twitter:image" content="{{ .RelPermalink | absURL }}">
+          <meta property="og:image" content="{{ .RelPermalink | absURL }}">
+        {{ end }}
+      {{ end }}
+    {{ end }}
 
   {{/* Site Verification */}}
   {{ with .Site.Params.verification.google }}
