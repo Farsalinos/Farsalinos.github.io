@@ -29,6 +29,15 @@ article footer.max-w-prose {
   #mobile-menu-dialog .text-2xl {
     font-size: 1.125rem !important; /* text-xl */
   }
+  /* Mobile menu dialog - ensure full height and clear scrollable area */
+  #mobile-menu-dialog {
+    min-height: 100vh !important;
+    min-height: 100dvh !important; /* dynamic viewport height for mobile */
+  }
+  #mobile-menu-dialog nav {
+    min-height: calc(100vh - 10rem);
+    min-height: calc(100dvh - 10rem);
+  }
 }
 @media (min-width: 1280px) {
   .main-menu {
