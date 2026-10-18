@@ -2,6 +2,7 @@
 date: 2026-10-17
 title: "Tobacco Harm Reduction Weekly Roundup: 11–18 October 2026"
 translationKey: news_20261018
+tags: ["Harm Reduction", "Regulation", "Vaping", "Taxation", "Public Health"]
 ---
 
 **Bottom line (11–18 October 2026):** The week’s biggest developments were regulatory. The European Commission published the results of its Tobacco Products Directive consultation (41,693 submissions), Germany’s Bundestag passed a tobacco tax increase running to 2030, and US states kept tightening vape product directories, with a federal judge upholding Pennsylvania’s law and Iowa delaying its own. New scientific evidence on smoking cessation was thin this week.
