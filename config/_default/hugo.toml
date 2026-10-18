@@ -8,9 +8,16 @@ pagination.pagerSize = 10
 
 [outputs]
   home = ["html", "json"]
-  section = ["html", "json"]
-  taxonomy = ["html", "json"]
-  term = ["html", "json"]
+  section = ["html"]
+  taxonomy = ["html"]
+  term = ["html"]
+
+[outputFormats.json]
+  mediaType = "application/json"
+  baseName = "index"
+  isPlainText = true
+  noUgly = true
+  notAlternative = true
 
 [module]
   [[module.imports]]
