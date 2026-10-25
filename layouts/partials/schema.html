@@ -101,71 +101,63 @@
       {{- end -}}
     {{- end -}}
   {{- end -}}
-  <script type="application/ld+json">
-  [{
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "articleSection": "{{ (site.GetPage .Section).Title | safeJS }}",
-    "name": "{{ .Title | safeJS }}",
-    "headline": "{{ .Title | safeJS }}",
-    {{ with .Description }}"description": "{{ . | safeJS }}",{{ end }}
-    {{ with .Site.Language.Locale }}"inLanguage": "{{ . }}",{{ end }}
-    "url" : {{ .Permalink }},
-    "author" : {
-      "@type": "Person",
-      "name": "{{ $author.name | safeJS }}"{{ with $author.image }},
-      {{- $authorImageURL := "" }}
-      {{- if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
-        {{- $authorImageURL = . }}
-      {{- else }}
-        {{- with resources.Get . }}
-          {{- /* Publish the original so the schema URL resolves even when
-            every other reference uses optimised variants. */}}
-          {{- $authorImageURL = .Permalink }}
-        {{- else }}
-          {{- $authorImageURL = . | absURL }}
-        {{- end }}
-      {{- end }}
-      "image": {{ $authorImageURL }}{{ end }}{{ if $sameAs }},
-      "sameAs": [{{ range $i, $u := $sameAs }}{{ if $i }}, {{ end }}{{ $u }}{{ end }}]{{ end }}
-    },
-    {{ with .PublishDate }}"copyrightYear": "{{ .Format "2006" }}",{{ end }}
-    {{ with .Date }}"dateCreated": "{{ .Format $iso8601 }}",{{ end }}
-    {{ with .PublishDate }}"datePublished": "{{ .Format $iso8601 }}",{{ end }}
-    {{ with .ExpiryDate }}"expires": "{{ .Format $iso8601 }}",{{ end }}
-    {{ with .Lastmod }}"dateModified": "{{ .Format $iso8601 }}",{{ end }}
-    {{ if .Keywords }}
-    {{ with .Keywords }}"keywords": {{ . }},{{ end }}
-    {{ else }}
-    {{ with .Params.tags }}"keywords": {{ . }},{{ end }}
-    {{ end }}
-    "mainEntityOfPage": {{ .Permalink }},
-    "wordCount": {{ .WordCount | int }}
-  }{{ if site.Params.enableStructuredBreadcrumbs | default false }},
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
+    {{- $ld := dict -}}
+  {{- $ld = dict "@context" "https://schema.org" "@type" "Article" -}}
+  {{- $ld = merge $ld (dict "articleSection" (site.GetPage .Section).Title "name" .Title "headline" .Title) -}}
+  {{- with .Description }}{{ $ld = merge $ld (dict "description" .) }}{{ end }}
+  {{- with .Site.Language.Locale }}{{ $ld = merge $ld (dict "inLanguage" .) }}{{ end }}
+  {{- $ld = merge $ld (dict "url" .Permalink) -}}
+  {{- $ld = merge $ld (dict "author" (dict "@type" "Person" "name" $author.name)) -}}
+  {{- with $author.image -}}
+    {{- $authorImageURL := "" -}}
+    {{- if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") -}}
+      {{- $authorImageURL = . -}}
+    {{- else -}}
+      {{- with resources.Get . -}}
+        {{- $authorImageURL = .Permalink -}}
+      {{- else -}}
+        {{- $authorImageURL = . | absURL -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $ld = merge $ld (dict "author" (merge (dict "@type" "Person" "name" $author.name) (dict "image" $authorImageURL))) -}}
+  {{- end -}}
+  {{- if $sameAs }}{{ $ld = merge $ld (dict "sameAs" $sameAs) }}{{ end }}
+  {{- with .PublishDate }}{{ $ld = merge $ld (dict "copyrightYear" ( .Format "2006" )) }}{{ end }}
+  {{- with .Date }}{{ $ld = merge $ld (dict "dateCreated" ( .Format "2006-01-02T15:04:05-07:00" )) }}{{ end }}
+  {{- with .PublishDate }}{{ $ld = merge $ld (dict "datePublished" ( .Format "2006-01-02T15:04:05-07:00" )) }}{{ end }}
+  {{- with .ExpiryDate }}{{ $ld = merge $ld (dict "expires" ( .Format "2006-01-02T15:04:05-07:00" )) }}{{ end }}
+  {{- with .Lastmod }}{{ $ld = merge $ld (dict "dateModified" ( .Format "2006-01-02T15:04:05-07:00" )) }}{{ end }}
+  {{- if .Keywords }}{{ $ld = merge $ld (dict "keywords" .Keywords ) }}{{ else }}{{ with .Params.tags }}{{ $ld = merge $ld (dict "keywords" . ) }}{{ end }}{{ end }}
+  {{- $ld = merge $ld (dict "mainEntityOfPage" .Permalink "wordCount" .WordCount) -}}
+  {{- $ldJSON := slice $ld -}}
+  {{- $breadcrumbItems := slice -}}
+    {{- if site.Params.enableStructuredBreadcrumbs | default false -}}
       {{- $position := 0 -}}
       {{- range .Ancestors -}}
         {{- if not .IsHome -}}
           {{- $position = add $position 1 -}}
-          {
-            "@type": "ListItem",
-            "position": {{ $position }},
-            "name": "{{ .Title }}",
-            "item": {{ .Permalink }}
-          },
+          {{- $name := .Title -}}
+          {{- if eq .Kind "section" -}}
+                      {{- $sectionPage := .Site.GetPage .Section -}}
+                      {{- if $sectionPage -}}
+                        {{- $name = $sectionPage.Title -}}
+                      {{- end -}}
+                    {{- end -}}
+                    {{- if eq $name "" -}}
+                      {{- $name = .Title -}}
+                    {{- end -}}
+                    {{- /* Fallback: if name is still empty, use section name from current page */}}
+                                        {{- if eq $name "" -}}
+                                          {{- $name = $.Section | humanize | title -}}
+                                        {{- end -}}
+          {{- $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" $position "name" $name "item" .Permalink) -}}
         {{- end -}}
       {{- end -}}
-      {{- $position = add $position 1 -}}
-      {
-        "@type": "ListItem",
-        "position": {{ $position }},
-        "name": "{{ .Title }}",
-        "item": {{ .Permalink }}
-      }
-    ]
-  }{{ end }}]
+    {{- end -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" (add (len (slice)) 1) "name" .Title "item" .Permalink) -}}
+      {{- $ld = merge $ld (dict "itemListElement" $breadcrumbItems) -}}
+      {{- $ldJSON := $ld | jsonify -}}
+  <script type="application/ld+json">
+  {{ $ldJSON }}
   </script>
 {{ end }}
