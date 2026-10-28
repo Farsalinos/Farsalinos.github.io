@@ -2,6 +2,7 @@
 date: 2026-10-28
 title: "E-Cigarettes: effective for smoking cessation even without behavioral support E-Cigarettes: effective for smoking cessation even without behavioral support"
 translationKey: ecig-cess
+tags: ["Smoking Cessation", "E-Cigarettes", "Randomized Trial", "Behavioral Support", "Harm Reduction", "NEJM Evidence"]
 ---
 
 A three-arm randomized trial led by Katie Myers Smith, Peter Hajek, and colleagues at Queen Mary University of London—registered as ISRCTN 61193406 and funded by the NIHR Health Technology Assessment programme—delivered a direct answer to a practical clinical question. If you hand a daily smoker an e-cigarette starter kit without any of the intensive behavioral counseling that earlier trials bundled with the device, does it still work? And if you add back brief telephone support, how much does it improve? The study, published in NEJM Evidence in October 2026 (DOI 10.1056/EVIDoa2600065), randomized **1,170 UK adults** and followed them with biochemically validated carbon-monoxide readings at 6 and 12 months. The results change how we should think about real-world cessation services, especially where counseling capacity is limited.
