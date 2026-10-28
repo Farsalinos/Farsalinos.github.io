@@ -1,6 +1,6 @@
 ---
 date: 2026-10-28
-title: "E-Cigarettes: effective for smoking cessation even without behavioral support E-Cigarettes: effective for smoking cessation even without behavioral support"
+title: "E-Cigarettes: effective for smoking cessation even without behavioral support"
 translationKey: ecig-cess
 tags: ["Smoking Cessation", "E-Cigarettes", "Randomized Trial", "Behavioral Support", "Harm Reduction", "NEJM Evidence"]
 ---
