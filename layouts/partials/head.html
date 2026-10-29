@@ -70,50 +70,50 @@
   {{ end }}
 
   {{/* Social */}}
-    {{/* Check if page has images BEFORE internal templates run */}}
-    {{ $hasArticleImage := false }}
-    {{ with .Params.images }}
-      {{ if gt (len .) 0 }}
+      {{/* Check if page has images BEFORE internal templates run */}}
+      {{ $hasArticleImage := false }}
+      {{ with .Params.images }}
+        {{ if gt (len .) 0 }}
+          {{ $hasArticleImage = true }}
+        {{ end }}
+      {{ end }}
+      {{ with .Params.featured_image }}
         {{ $hasArticleImage = true }}
       {{ end }}
-    {{ end }}
-    {{ with .Params.featured_image }}
-      {{ $hasArticleImage = true }}
-    {{ end }}
-    {{/* Also check page bundle images */}}
-    {{ if not $hasArticleImage }}
-      {{ $pageImages := .Resources.ByType "image" }}
-      {{ $featureImage := "" }}
-      {{ range slice "*featured*" "*cover*" "*thumbnail*" }}
-        {{ if not $hasArticleImage }}
-          {{ $featureImage = $pageImages.GetMatch . }}
-          {{ if $featureImage }}
-            {{ $hasArticleImage = true }}
+      {{/* Also check page bundle images */}}
+      {{ if not $hasArticleImage }}
+        {{ $pageImages := .Resources.ByType "image" }}
+        {{ $featureImage := "" }}
+        {{ range slice "*feature*" "*featured*" "*cover*" "*thumbnail*" }}
+          {{ if not $hasArticleImage }}
+            {{ $featureImage = $pageImages.GetMatch . }}
+            {{ if $featureImage }}
+              {{ $hasArticleImage = true }}
+            {{ end }}
           {{ end }}
         {{ end }}
       {{ end }}
-    {{ end }}
 
-    {{ template "_internal/opengraph.html" . }}
-    {{ template "_internal/twitter_cards.html" . }}
+      {{ template "_internal/opengraph.html" . }}
+      {{ template "_internal/twitter_cards.html" . }}
 
-    {{/* Use defaultSocialImage ONLY if no article image exists */}}
-    {{ if not $hasArticleImage }}
-      {{ with .Site.Params.defaultSocialImage }}
-        {{ $socialImage := "" }}
-        {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
-          {{ $socialImage = resources.GetRemote . }}
-        {{ else }}
-          {{ $socialImage = resources.Get . }}
-        {{ end }}
-        {{ with $socialImage }}
-          <meta name="twitter:image" content="{{ .RelPermalink | absURL }}">
-          <meta property="og:image" content="{{ .RelPermalink | absURL }}">
+      {{/* Use defaultSocialImage ONLY if no article image exists */}}
+      {{ if not $hasArticleImage }}
+        {{ with .Site.Params.defaultSocialImage }}
+          {{ $socialImage := "" }}
+          {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+            {{ $socialImage = resources.GetRemote . }}
+          {{ else }}
+            {{ $socialImage = resources.Get . }}
+          {{ end }}
+          {{ with $socialImage }}
+            <meta name="twitter:image" content="{{ .RelPermalink | absURL }}">
+            <meta property="og:image" content="{{ .RelPermalink | absURL }}">
+          {{ end }}
         {{ end }}
       {{ end }}
-    {{ end }}
 
-  {{/* Site Verification */}}
+    {{/* Site Verification */}}
   {{ with .Site.Params.verification.google }}
     <meta name="google-site-verification" content="{{ . }}">
   {{ end }}
