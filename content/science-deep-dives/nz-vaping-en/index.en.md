@@ -143,23 +143,3 @@ In the 2023 Eurobarometer, 24% of people in the EU smoked (daily or occasionally
 # Source
 
 The data come from the Ministry of Health, Manatū Hauora, Smoking and vaping: 2025/26 New Zealand Health Survey, published on November 18, 2026, covering adults aged 15 and over. More information is available on the New Zealand Health Survey page and in the Annual Update of Key Results 2025/26.
-
-| **Aid in last quit attempt, 2025/26** | **Share of people who tried to quit** |
-|----|----|
-| Vaping or e-cigarettes | 36.5% |
-| Nicotine replacement therapies (patches, gum, etc.) | 29.8% |
-| No aid | 33.4% |
-
-|                        | **2011/12** | **2024/25** | **2025/26** |
-|------------------------|-------------|-------------|-------------|
-| Adults who smoke daily | 16.4%       | 6.7%        | 5.9%        |
-
-|                       | **Five years earlier** | **2025/26** |
-|-----------------------|------------------------|-------------|
-| Adults who vape daily | 6.4%                   | 11.2%       |
-
-| **Reason for vaping (daily vapers)**        | **Share** |
-|---------------------------------------------|-----------|
-| Cheaper than tobacco                        | 50.1%     |
-| To cut down on or stop smoking              | 46.1%     |
-| To cope with stress, anxiety, or depression | 41.8%     |
