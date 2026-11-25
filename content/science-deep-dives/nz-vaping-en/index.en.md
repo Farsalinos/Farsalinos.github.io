@@ -10,7 +10,7 @@ These figures come from the 2025/26 New Zealand Health Survey, published by the 
 
 **{{< figure src="slide2.en.jpg" class="w-[400px]" >}}**
 
-# What do New Zealanders use to stop smoking?
+## What do New Zealanders use to stop smoking?
 
 Vaping was the most common aid used in the last quit attempt, at 36.5%. The next most common response was no aid: 33.4% (one in three) used nothing in their last attempt. Nicotine replacement therapies followed at 29.8%.
 
@@ -28,17 +28,11 @@ The survey records which types of aid people used in their last quit attempt, bu
 
 **{{< figure src="slide4.en.jpg" class="w-[400px]" >}}**
 
-# Is vaping replacing smoking in New Zealand?
+## Is vaping replacing smoking in New Zealand?
 
 The numbers strongly indicate a substitution effect.
 
 First, smoking fell dramatically while vaping rose. Daily smoking fell from 16.4% to 5.9%, and daily vaping, which was first measured in 2015/16, is now at 11.2%. In fact, a recent study showed that New Zealand's policy shift, which adopted vaping as a tool for smoking cessation, led to a fivefold increase in the rate of smoking decline in the population. There are almost twice as many daily vapers as daily smokers. Vaping is now higher than smoking among young adults, and, most importantly, smoking among teenagers is close to zero.
-
-| **Group** | **Share of all adults** | **Share of all daily vapers** |
-|----|:--:|:--:|
-| Daily vaper and ex-smoker | 6.3% | just over half |
-| Daily vaper and still smokes (dual use) | 1.8% | about 1 in 6 |
-| Daily vaper who never smoked | 2.7% | about 1 in 4 |
 
 **{{< figure src="slide3.en.jpg" class="w-[400px]" >}}**
 
@@ -52,7 +46,7 @@ Fourth, almost half of daily vapers vape to cut down on or stop smoking, and hal
 
 **{{< figure src="slide5.en.jpg" class="w-[400px]" >}}**
 
-# How much has smoking fallen in New Zealand?
+## How much has smoking fallen in New Zealand?
 
 Daily smoking has fallen by nearly two-thirds since 2011/12. It was 16.4% of the population then, 6.7% in 2024/25, and 5.9% now. About 259,000 people smoke daily in New Zealand today.
 
@@ -62,7 +56,7 @@ The drop occurred in every age group, but it was largest among younger people.
 |------------------------|:-----------:|:-----------:|:-----------:|
 | Adults who smoke daily |    16.4%    |    6.7%     |    5.9%     |
 
-# Who still smokes in New Zealand?
+## Who still smokes in New Zealand?
 
 People who continue to smoke daily smoke less than before. In 2025/26, they smoked an average of 8.7 cigarettes per day, down from 11.2 in 2011/12 (a 22% decrease).
 
@@ -74,7 +68,7 @@ Socioeconomic factors also play a role in smoking rates. In the least deprived n
 
 **{{< figure src="slide8.en.jpg" class="w-[400px]" >}}**
 
-# What New Zealand's numbers mean
+## What New Zealand's numbers mean
 
 The most logical reading of the survey is that vaping has replaced a large portion of smoking in New Zealand. Smoking fell by nearly two-thirds while vaping rose. Vaping is the most common tool people use to quit. Former smokers who vape daily now outnumber daily smokers. And among young adults, smoking has fallen to a very low level while vaping has become the most common habit.
 
@@ -86,7 +80,7 @@ New Zealand is now very close to becoming a smoke-free country, as is already th
 
 **{{< figure src="slide12.en.jpg" class="w-[400px]" >}}**
 
-# Why this should be a model for other countries
+## Why this should be a model for other countries
 
 New Zealand shows what happens when a country actively offers smokers a realistic alternative. Most smokers want to quit, and many try repeatedly. Nicotine is the reason it is hard, but smoke is what kills. A product that delivers nicotine without burning tobacco helps people move away from cigarettes without having to give up nicotine from day one (which makes it particularly difficult for them). New Zealand's data show that a large number of adults, mainly over 35, chose this option. Many used it because it was cheaper than tobacco, a financial incentive indicating that the pathway can also be open to lower-income people, who are more likely to smoke.
 
@@ -94,7 +88,7 @@ Sweden, which has allowed snus for years, has the lowest smoking rate in the EU 
 
 **{{< figure src="slide10.en.jpg" class="w-[400px]" >}}**
 
-# How Europe compares
+## How Europe compares
 
 Smoking is still much higher in the EU than in New Zealand. The latest Eurobarometer (2023) found that 24% of adults in the EU smoke. The EU has set a target for a "Tobacco-Free Generation" by 2040, meaning less than 5% smokers. New Zealand, at 5.9%, is almost there today.
 
@@ -102,13 +96,13 @@ The European Commission is taking a different approach to novel nicotine product
 
 **{{< figure src="slide11.en.jpg" class="w-[400px]" >}}**
 
-# Conclusions
+## Conclusions
 
 New Zealand is one of the strongest examples of what happens when a country lets vaping do part of the work of smoking cessation: daily smoking is down nearly two-thirds, vaping is the most common cessation aid, and there are now more former smokers who vape daily than people who smoke daily. The clinical evidence points in the same direction.
 
 For Europe, where one in four still smokes, the lesson is that a policy targeted at smoking itself—supporting lower-risk alternatives for adults who smoke alongside strict rules for youth—deserves serious consideration before the EU decides how to treat these products.
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 ## What did people use to stop smoking in New Zealand?
 
@@ -148,11 +142,7 @@ In the 2023 Eurobarometer, 24% of people in the EU smoked (daily or occasionally
 
 # Source
 
-The data come from the Ministry of Health, Manatū Hauora, Smoking and vaping: 2025/26 New Zealand Health Survey, published on November 18, 2026, covering adults aged 15 and over. More information is available on the New Zealand Health Survey page and in the Annual Update of Key Results 2025/26. The full numbers behind the smoking cessation chart can be downloaded as a data file. The Ministry of Health owns the data and licenses them for reuse under a Creative Commons Attribution 4.0 International license.
-
-For the interpretation section, the sources are the Cochrane review on e-cigarettes for smoking cessation (August 2026); New Zealand Cabinet papers on vaping and Smokefree 2025; RNZ on free vaping starter kits; the European Commission page on the revision of the Tobacco Taxation Directive; the EU Knowledge4Policy page on tobacco and smoking (Special Eurobarometer 539, 2023); the Eurobarometer 2023 repository summary on tobacco and nicotine products; and Euronews on European tobacco rules (August 2026).
-
-Last updated: November 24, 2026.
+The data come from the Ministry of Health, Manatū Hauora, Smoking and vaping: 2025/26 New Zealand Health Survey, published on November 18, 2026, covering adults aged 15 and over. More information is available on the New Zealand Health Survey page and in the Annual Update of Key Results 2025/26.
 
 | **Aid in last quit attempt, 2025/26** | **Share of people who tried to quit** |
 |----|----|
@@ -167,12 +157,6 @@ Last updated: November 24, 2026.
 |                       | **Five years earlier** | **2025/26** |
 |-----------------------|------------------------|-------------|
 | Adults who vape daily | 6.4%                   | 11.2%       |
-
-| **Group** | **Share of all adults** | **Share of all daily vapers** |
-|----|----|----|
-| Daily vaper and former smoker | 6.3% | just over half |
-| Daily vaper who still smokes (dual use) | 1.8% | about 1 in 6 |
-| Daily vaper who has never smoked | 2.7% | about 1 in 4 |
 
 | **Reason for vaping (daily vapers)**        | **Share** |
 |---------------------------------------------|-----------|
