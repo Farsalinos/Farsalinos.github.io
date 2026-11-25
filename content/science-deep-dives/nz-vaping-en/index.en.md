@@ -46,7 +46,7 @@ Second, vaping is the most common aid reported in the last quit attempt, even mo
 
 Third, just over half of all daily vapers used to smoke, and among daily vapers over 35 years old, the majority are former smokers. Adults who are former smokers and vape daily now make up a larger group than adults who smoke daily. Daily vaping has increased in every age group since it was first measured in 2015/16, which is not unexpected. About one in four adults aged 18 to 24 vapes daily, while less than 5% smoke daily. Among teenagers aged 15 to 17, smoking is now close to zero, and daily vaping is under 10%. This is lower than Australia's 14.3% among teenagers, despite restrictive regulations and access bans.
 
-**[[MISSING IMAGE: slid6.en]]**
+**{{< figure src="slide6.en.jpg" class="w-[400px]" >}}**
 
 Fourth, almost half of daily vapers vape to cut down on or stop smoking, and half also say it is cheaper than conventional cigarettes, a major incentive for smokers. The survey also records other reasons, such as flavors (4th most popular answer, 33.9%), enjoyment of vaping, the belief that it is less harmful than smoking, and the feeling that it is more acceptable to others compared to smoking. At the other end of the list were "recommended by a health professional" (just 4.7%) and "easier to get than tobacco" (9%).
 
