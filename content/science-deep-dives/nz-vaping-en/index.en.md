@@ -2,6 +2,7 @@
 date: 2026-11-24
 title: The New Zealand Success Story
 translationKey: nz-vaping
+tags: ["Harm Reduction", "Vaping", "Smoking Cessation", "Regulation", "Public Health", "New Zealand", "smoke-free country"]
 ---
 
 **In short.** Smoking in New Zealand has fallen by nearly two-thirds in fourteen years, from 16.4% of adults smoking daily in 2011/12 to 5.9% in 2025/26, while 11.2% now vape daily. Vaping was the most common aid people used in their last quit attempt (36.5%), ahead of nicotine replacement therapies such as patches (29.8%). Over half of daily vapers are former smokers, and the 6.3% of adults who are former smokers and vape daily outnumber the 5.9% who still smoke daily.
